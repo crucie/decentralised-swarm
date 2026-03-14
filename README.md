@@ -2,7 +2,7 @@
 
 A decentralized proof-of-completion system where simulated swarm agents independently log their traversal paths to an Ethereum blockchain for absolute, tamper-proof verification of space explored. 
 
-
+![alt text](<Screenshot 2026-03-14 at 14-44-48 frontend - Copy.png>)
 
 ![Project Hero Image]
 
