@@ -61,7 +61,7 @@ Before running this project, ensure you have the following installed on your mac
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/crucie/decentralised-swarm.git
 cd decentralised-swarm
 ```
 
