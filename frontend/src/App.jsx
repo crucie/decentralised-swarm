@@ -1,36 +1,108 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef, useCallback } from 'react';
 import MapVisualizer from './components/MapVisualizer';
 import FleetStatus from './components/FleetStatus';
+
+const IS_DEMO = import.meta.env.VITE_USE_STATIC_DATA === 'true';
+const REPLAY_SPEED_MS = 100; // How fast to step through points in demo mode
+const POINTS_PER_TICK = 3;   // How many new points to reveal per tick
+
+function DemoBanner() {
+  return (
+    <div className="bg-arcade-blue/10 border-2 border-arcade-blue text-arcade-blue text-center text-xs md:text-sm py-2 px-4 mb-4 shadow-[0_0_10px_rgba(0,240,255,0.2)] animate-pulse tracking-wider">
+      <span className="opacity-90">⟁ DEMO MODE — </span>
+      <span className="opacity-70">Replaying recorded blockchain data. </span>
+      <a
+        href="https://github.com/crucie/decentralised-swarm"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="underline opacity-100 hover:text-white transition-colors normal-case"
+      >
+        Clone the project
+      </a>
+      <span className="opacity-70"> to run it live.</span>
+    </div>
+  );
+}
 
 function App() {
   const [mapData, setMapData] = useState([]);
   const [connected, setConnected] = useState(false);
 
+  // For demo replay
+  const allPointsRef = useRef([]);   // Full dataset
+  const cursorRef = useRef(0);       // Current position in the replay
+  const replayIntervalRef = useRef(null);
+
+  // Starts or restarts the replay loop
+  const startReplay = useCallback(() => {
+    // Clear any existing interval
+    if (replayIntervalRef.current) clearInterval(replayIntervalRef.current);
+
+    cursorRef.current = 0;
+    setMapData([]); // Reset the view
+
+    replayIntervalRef.current = setInterval(() => {
+      const allPts = allPointsRef.current;
+      if (allPts.length === 0) return;
+
+      cursorRef.current += POINTS_PER_TICK;
+
+      if (cursorRef.current >= allPts.length) {
+        // Reached the end → pause briefly, then loop
+        clearInterval(replayIntervalRef.current);
+        setTimeout(() => startReplay(), 1500); // 1.5s pause before restart
+        setMapData(allPts); // Show all points briefly
+        return;
+      }
+
+      setMapData(allPts.slice(0, cursorRef.current));
+    }, REPLAY_SPEED_MS);
+  }, []);
+
   useEffect(() => {
-    const fetchLiveMapData = () => {
-      fetch('http://localhost:3001/api/map-data')
+    if (IS_DEMO) {
+      // Fetch the full static dataset once, then replay it in a loop
+      fetch('/mockMapData.json')
         .then(res => res.json())
         .then(data => {
-          setMapData(data);
+          allPointsRef.current = data;
           setConnected(true);
+          startReplay();
         })
         .catch(err => {
-          console.error("Error fetching map data:", err);
+          console.error("Error fetching demo data:", err);
           setConnected(false);
         });
-    };
 
-    // 1. Fetch initially on load
-    fetchLiveMapData();
+      return () => {
+        if (replayIntervalRef.current) clearInterval(replayIntervalRef.current);
+      };
+    } else {
+      // Live mode — poll the backend as before
+      const fetchLiveMapData = () => {
+        fetch('http://localhost:3001/api/map-data')
+          .then(res => res.json())
+          .then(data => {
+            setMapData(data);
+            setConnected(true);
+          })
+          .catch(err => {
+            console.error("Error fetching map data:", err);
+            setConnected(false);
+          });
+      };
 
-    // 2. Poll the backend live every 2 seconds
-    const interval = setInterval(fetchLiveMapData, 2000);
-
-    return () => clearInterval(interval);
-  }, []);
+      fetchLiveMapData();
+      const interval = setInterval(fetchLiveMapData, 2000);
+      return () => clearInterval(interval);
+    }
+  }, [startReplay]);
 
   return (
     <div className="min-h-screen bg-arcade-black crt font-retro text-arcade-green p-4 flex flex-col uppercase">
+      {/* Demo Banner (only in static/demo mode) */}
+      {IS_DEMO && <DemoBanner />}
+
       {/* Retro Arcade Header */}
       <header className="border-4 border-arcade-green p-4 mb-4 text-center shadow-[0_0_15px_rgba(57,255,20,0.5)]">
         <h1 className="text-2xl md:text-4xl text-arcade-green animate-flicker tracking-widest">
@@ -46,7 +118,7 @@ function App() {
         {/* Left Panel: The Map Canvas */}
         <div className="flex-1 border-4 border-arcade-blue p-2 shadow-[0_0_15px_rgba(0,240,255,0.3)] bg-grid flex flex-col relative">
           <div className="absolute top-2 left-2 text-arcade-blue text-xs z-10 bg-arcade-black px-1 opacity-80">
-            [RADAR GRID]
+            {IS_DEMO ? '[REPLAY]' : '[RADAR GRID]'}
           </div>
           <MapVisualizer points={mapData} />
         </div>

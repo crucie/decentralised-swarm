@@ -7,6 +7,8 @@ backend/node_modules/
 
 # Environment variables
 .env
+/frontend/.env
+/backend/.env
 .env.local
 .env.development.local
 .env.test.local

@@ -1,0 +1,6221 @@
+[
+  {
+    "agentId": "agent-alpha",
+    "x": 10,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:45:22.000Z",
+    "transactionHash": "0x9100ccb0001037cd18f2bd604c692cacef6f2cf63e976cdafea79342058e75d7",
+    "gridTileId": "1,0"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 15,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:45:29.000Z",
+    "transactionHash": "0xef54c6018f98969a3cd2ba07d0f03faa80e4035fb3fa53573472203560572484",
+    "gridTileId": "1,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 45,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T10:45:30.000Z",
+    "transactionHash": "0xebca76ee32541b9c78b72cebe16772531cceb163d30de153b6b7bd500f98df13",
+    "gridTileId": "4,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 10,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:45:37.000Z",
+    "transactionHash": "0xf9e97cb8f6c792adccf1d6182c88ae0d8b6e9582023de5b6e33f4ac980f191d6",
+    "gridTileId": "1,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 50,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T10:45:38.000Z",
+    "transactionHash": "0x81a61f9592dd0cefaeff8ca18e25abe2694f7ade77ae058c4a5e29c4416f401c",
+    "gridTileId": "5,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 15,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:45:44.000Z",
+    "transactionHash": "0x84e95b5ba9d6b308070793719723b3aebd51e7d68c4e8b9c773a124fbea2d8d6",
+    "gridTileId": "1,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 50,
+    "y": 55,
+    "z": 0,
+    "timestamp": "2026-03-14T10:45:46.000Z",
+    "transactionHash": "0x146e5d36172645a860a0c542fa31fa6205881d2c33b13ba4f3f3c9f0136ffc0f",
+    "gridTileId": "5,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 15,
+    "y": 10,
+    "z": 0,
+    "timestamp": "2026-03-14T10:45:51.000Z",
+    "transactionHash": "0x3d66e22a6430c8f7a622ca05e2896f10e89be0879b4b1e0d5659c0522ac29824",
+    "gridTileId": "1,1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 55,
+    "y": 55,
+    "z": 0,
+    "timestamp": "2026-03-14T10:45:54.000Z",
+    "transactionHash": "0x59e8e0c5fdc9358e855d06b0974ec78eba2123f6a7a9fe90a9a3e29eb0708f53",
+    "gridTileId": "5,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 15,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:45:58.000Z",
+    "transactionHash": "0x868cad64c66bf9b971596ffdd4db5d4290064300e75a1f75fc02ff6c33c4727f",
+    "gridTileId": "1,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 60,
+    "y": 55,
+    "z": 0,
+    "timestamp": "2026-03-14T10:46:02.000Z",
+    "transactionHash": "0x71daa07dde0deaed516f53406e31fffe3209e31848cfb04681bfe60c64f1ff53",
+    "gridTileId": "6,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 10,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:46:05.000Z",
+    "transactionHash": "0x5d65c80e573403bee29bdf87ba92a9b571eb396d5ebecdb33c86a0cd0c97098a",
+    "gridTileId": "1,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 55,
+    "y": 55,
+    "z": 0,
+    "timestamp": "2026-03-14T10:46:10.000Z",
+    "transactionHash": "0xcc1391d014d83cd6a0e64500f1380194a67d331de796c1067b11ed33eacab869",
+    "gridTileId": "5,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 5,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:46:12.000Z",
+    "transactionHash": "0xc70908020eca441ec880daf773ef45ecd99ea04d05e0bc05915180be64105e92",
+    "gridTileId": "0,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 55,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T10:46:18.000Z",
+    "transactionHash": "0x0a6aee022d2a602329bf99a038ce86000ef3f6f3700a1e696302a16f398ed507",
+    "gridTileId": "5,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 5,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T10:46:19.000Z",
+    "transactionHash": "0x398ba7a77807b3b0482e0c22b2ad99cc69a8038b688e5031e53a653a5a82721c",
+    "gridTileId": "0,0"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 5,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:46:26.000Z",
+    "transactionHash": "0x996add38e4f8e1c99d23eef275fa04ca6c640ebf19936e09ec0f948ba57ad8f3",
+    "gridTileId": "0,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 50,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T10:46:27.000Z",
+    "transactionHash": "0xa250a9768363f30548225d3f626daf0701cbe3d829916d77cd7634e4d868edc3",
+    "gridTileId": "5,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 5,
+    "y": 10,
+    "z": 0,
+    "timestamp": "2026-03-14T10:46:34.000Z",
+    "transactionHash": "0xd946c577d7eb0e7d7c17c16f206fafc56bdf062ab9b5d64a22afa76ba05b6d6e",
+    "gridTileId": "0,1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 55,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T10:46:35.000Z",
+    "transactionHash": "0x4377245c3831bc32421552b09d4aa00197a2f3b6e392ab4a6b35eaf27b4ef303",
+    "gridTileId": "5,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 5,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:46:41.000Z",
+    "transactionHash": "0x8179ad622fbb07426057941340043f8ebf2a5509b91a4da82441605a5e69f309",
+    "gridTileId": "0,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 50,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T10:46:43.000Z",
+    "transactionHash": "0x14dffdb6d54f8421014a58e963acee5d8975e03d16c589866f10070bc3d29145",
+    "gridTileId": "5,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 0,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:46:48.000Z",
+    "transactionHash": "0x32bea8af763983cfd7d91d30a928920c0e49abb68798a9b6e520d0b920fd51cd",
+    "gridTileId": "0,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 45,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T10:46:52.000Z",
+    "transactionHash": "0x416aef1aec6360381743b303074d796874d4c798135f9ec530e34dbafaf19a35",
+    "gridTileId": "4,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T10:46:55.000Z",
+    "transactionHash": "0x03b6f1d994f92316def4e7e8e0da2d29ef28b6fe7245c110df7d81bd5d29f249",
+    "gridTileId": "0,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 40,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T10:46:59.000Z",
+    "transactionHash": "0x0be3dabf8f9742e1760cc22aebd266f878bc6f5f3d229aa088c00b95274b9658",
+    "gridTileId": "4,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 0,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:47:02.000Z",
+    "transactionHash": "0xfbfc4d6b079201c28277eae78e0a3a5410d9654c1d05d55ae207559485e2d67c",
+    "gridTileId": "0,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 40,
+    "y": 45,
+    "z": 0,
+    "timestamp": "2026-03-14T10:47:07.000Z",
+    "transactionHash": "0x13222d5987accfe69ad960940558ebc42efd214450258044a7a7e5e75c8541bd",
+    "gridTileId": "4,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": -5,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:47:09.000Z",
+    "transactionHash": "0xe16486f808a872a064731bda497ed81beaeb57ff3ac69e86ebc921722b9e3e58",
+    "gridTileId": "-1,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 40,
+    "y": 40,
+    "z": 0,
+    "timestamp": "2026-03-14T10:47:15.000Z",
+    "transactionHash": "0x60d5daf0ace4c53ad17dd99abdb5f296ebc28c0588a86fb85685609966215a73",
+    "gridTileId": "4,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": -5,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T10:47:16.000Z",
+    "transactionHash": "0xf616f0c2e1872e171f614da0d254c59638818f1ff6f2876f252764a954437317",
+    "gridTileId": "-1,-1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": -10,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T10:47:23.000Z",
+    "transactionHash": "0x241c756e702a169555924f9f1ea8453f0b2c1ee90ec346a115d5c6053aec74f2",
+    "gridTileId": "-1,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 40,
+    "y": 45,
+    "z": 0,
+    "timestamp": "2026-03-14T10:47:24.000Z",
+    "transactionHash": "0xc8c800c49e64c6015799aba6df84be252dc65d8783239d656f14e545695a1a91",
+    "gridTileId": "4,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": -5,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T10:47:30.000Z",
+    "transactionHash": "0x919e9c97c57a4740d9983d313c1105b7b6b22c09dd9c743d7503805aeb3ce3ee",
+    "gridTileId": "-1,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 35,
+    "y": 45,
+    "z": 0,
+    "timestamp": "2026-03-14T10:47:32.000Z",
+    "transactionHash": "0x824fb3db3c586b64967d8b48572f2c65ae43b10e9e17321db3a1f55ae6df6051",
+    "gridTileId": "3,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": -10,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T10:47:37.000Z",
+    "transactionHash": "0xb9587f02ffbbf091aac0bbbdceb9ffe6f2c979a6139eed23dcf08194ecf9fdbe",
+    "gridTileId": "-1,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 40,
+    "y": 45,
+    "z": 0,
+    "timestamp": "2026-03-14T10:47:40.000Z",
+    "transactionHash": "0xacd6cbbb086849cb34c4855ffca38309ee37b74fb2d4e1015d36b22a6e46bec2",
+    "gridTileId": "4,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": -5,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T10:47:44.000Z",
+    "transactionHash": "0x8326de67261129071eb9857ee5afbd322269cf7d834e3ef229763a376faf44cc",
+    "gridTileId": "-1,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 45,
+    "y": 45,
+    "z": 0,
+    "timestamp": "2026-03-14T10:47:48.000Z",
+    "transactionHash": "0x99f33180a1a54f34211a72c3663b247815e046e828955df95c11211dedfc9adf",
+    "gridTileId": "4,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": -5,
+    "y": -15,
+    "z": 0,
+    "timestamp": "2026-03-14T10:47:51.000Z",
+    "transactionHash": "0x779240700f0b6bb105085ca5b523ed577e39984379fc4d691c2912d55b154b3f",
+    "gridTileId": "-1,-2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 50,
+    "y": 45,
+    "z": 0,
+    "timestamp": "2026-03-14T10:47:56.000Z",
+    "transactionHash": "0x1926ba4937c13cdbec5a08a4fe0a955a8ddb5d925f71e40f186c39820ff26e54",
+    "gridTileId": "5,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": -5,
+    "y": -20,
+    "z": 0,
+    "timestamp": "2026-03-14T10:47:58.000Z",
+    "transactionHash": "0xb93c3dd583a335ab53576a084332b265b515f2030a5c492496b8522c83807306",
+    "gridTileId": "-1,-2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 50,
+    "y": 40,
+    "z": 0,
+    "timestamp": "2026-03-14T10:48:04.000Z",
+    "transactionHash": "0x479f887dc648fd0f4d9ec1391c474e975885332c424c3c731acb0331c1a7a985",
+    "gridTileId": "5,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": -5,
+    "y": -15,
+    "z": 0,
+    "timestamp": "2026-03-14T10:48:05.000Z",
+    "transactionHash": "0xea46973ff4c4a04f85de524f61e7a6aed7c6f1ee630468dfa382fdcfe66db03d",
+    "gridTileId": "-1,-2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 50,
+    "y": 35,
+    "z": 0,
+    "timestamp": "2026-03-14T10:48:12.000Z",
+    "transactionHash": "0x371e7598519254f50044adc0864ba0981b4a29a4f28a2aac8695fc753565dfe5",
+    "gridTileId": "5,3"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 0,
+    "y": -15,
+    "z": 0,
+    "timestamp": "2026-03-14T10:48:13.000Z",
+    "transactionHash": "0xe0bd98cdff3f9eff9603e08905b219f4ac4673e2685b959c7cb6a773af80527f",
+    "gridTileId": "0,-2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 5,
+    "y": -15,
+    "z": 0,
+    "timestamp": "2026-03-14T10:48:20.000Z",
+    "transactionHash": "0x8f87cc1ce33811c9365eaae7e4d294d0562293828d85b94005148a6d36afd8a9",
+    "gridTileId": "0,-2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 50,
+    "y": 40,
+    "z": 0,
+    "timestamp": "2026-03-14T10:48:21.000Z",
+    "transactionHash": "0xbbc026418ce5007d6a1153fd7ab2ff403f8c69da3280e117f2c2ade3e3c30664",
+    "gridTileId": "5,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 5,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T10:48:27.000Z",
+    "transactionHash": "0xef65f90ee7deba4b7831d745213d7215ff01388065541220871701a53df41c39",
+    "gridTileId": "0,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 50,
+    "y": 35,
+    "z": 0,
+    "timestamp": "2026-03-14T10:48:29.000Z",
+    "transactionHash": "0x65a90ab680dfbf3fd3a9900f8e3044ade035e9a6e5776289dd283bcabde47526",
+    "gridTileId": "5,3"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 5,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:48:34.000Z",
+    "transactionHash": "0x4807ac903eb1fba9407fd334de9054a6c240aa8b31e8ea7dcaedc2b85a6f6f4a",
+    "gridTileId": "0,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 50,
+    "y": 30,
+    "z": 0,
+    "timestamp": "2026-03-14T10:48:37.000Z",
+    "transactionHash": "0x422a68fe8911e5f543c73d70279b6cae7dcb18fb95c43e0b54626782178e7c1d",
+    "gridTileId": "5,3"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 0,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:48:41.000Z",
+    "transactionHash": "0x9bff19b39312d99ba592c98d4d20a6943fd516d72268016b2ce5f7414a7adc3d",
+    "gridTileId": "0,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 50,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T10:48:45.000Z",
+    "transactionHash": "0xba40c8799399e425b20f309bc3d466d4ae219771c2b12e41f4639fcb4ef211a4",
+    "gridTileId": "5,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 5,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:48:48.000Z",
+    "transactionHash": "0x03c663e2f3331e4424e44510b488104f991c9d11242d638f908f1c507dd57552",
+    "gridTileId": "0,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 50,
+    "y": 30,
+    "z": 0,
+    "timestamp": "2026-03-14T10:48:53.000Z",
+    "transactionHash": "0x3e8f7f55d29b97255bd1e1383d29ece2d5e2c86be1048998b90c59c8a57f4163",
+    "gridTileId": "5,3"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 5,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T10:48:55.000Z",
+    "transactionHash": "0xb8de728ac258b384a4dd2191d2c92919e6c1d27556edbba9f82ccf7a14fdfc5c",
+    "gridTileId": "0,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 45,
+    "y": 30,
+    "z": 0,
+    "timestamp": "2026-03-14T10:49:01.000Z",
+    "transactionHash": "0x66647a42357704b1b3d2ecb41826b309f7139f9d8494b30ec954326ca74296d9",
+    "gridTileId": "4,3"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 0,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T10:49:02.000Z",
+    "transactionHash": "0x1ba07c23ccd04fef7cfc7e0c66c79dd4d788e926a6d73b4117edf2c1fb8bd115",
+    "gridTileId": "0,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 40,
+    "y": 30,
+    "z": 0,
+    "timestamp": "2026-03-14T10:49:09.000Z",
+    "transactionHash": "0x046b4379e4fe16fad5b2b36204effeaa1d60435e35575d8735f73ce70fe0b956",
+    "gridTileId": "4,3"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": -5,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T10:49:10.000Z",
+    "transactionHash": "0x422a96d112f62ef6ac50fa2528e81736026fd752e2b8226603c450ecf25c58d1",
+    "gridTileId": "-1,-1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 0,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T10:49:17.000Z",
+    "transactionHash": "0xdcfb80d5b4b7cf5f8dfb6dc8c0d6f1df9c0136496b215e8dc27158d4847f9999",
+    "gridTileId": "0,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 40,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T10:49:18.000Z",
+    "transactionHash": "0x243ab92d270b00a22326e6ac8018a800ccde7265bf2eb7c303c566f44b54431f",
+    "gridTileId": "4,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 0,
+    "y": -15,
+    "z": 0,
+    "timestamp": "2026-03-14T10:49:24.000Z",
+    "transactionHash": "0xfa91f2754a15145ab9bcf2fcc4567c8bab251613a2ca3006547e5572d9deb57d",
+    "gridTileId": "0,-2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 45,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T10:49:26.000Z",
+    "transactionHash": "0x258fbdb0f4b6698dc0751c49750b73e7210fc25f320dd425ab9f213b97f9d2a9",
+    "gridTileId": "4,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 5,
+    "y": -15,
+    "z": 0,
+    "timestamp": "2026-03-14T10:49:31.000Z",
+    "transactionHash": "0x748fe01fe7d3141dff91a008409fc2ecee279f7a5492d1354f03348ed718de19",
+    "gridTileId": "0,-2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 45,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T10:49:34.000Z",
+    "transactionHash": "0xde28b15cf8c745340c03b943564cb2ac9c652632612cf79412a7e3a62ff8aa4c",
+    "gridTileId": "4,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 0,
+    "y": -15,
+    "z": 0,
+    "timestamp": "2026-03-14T10:49:38.000Z",
+    "transactionHash": "0xc0a9e2c347c777b05d38baf1e25394de5c73685ffecd0545f90e328db83494e5",
+    "gridTileId": "0,-2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 40,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T10:49:42.000Z",
+    "transactionHash": "0xe8c11f0c0079a3631dda9dc6f3d3d59a02f93b2f267ffc30ab571c9589819489",
+    "gridTileId": "4,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 5,
+    "y": -15,
+    "z": 0,
+    "timestamp": "2026-03-14T10:49:45.000Z",
+    "transactionHash": "0x20acac0d06bf4936db9e7f91164638dfed24ece069971d365463afc597d6dcdc",
+    "gridTileId": "0,-2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 35,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T10:49:50.000Z",
+    "transactionHash": "0x83d95e2d2dcb81e589f5a45d2e00c1848f1200cc8491c5bf6d59af129ff1878e",
+    "gridTileId": "3,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 10,
+    "y": -15,
+    "z": 0,
+    "timestamp": "2026-03-14T10:49:52.000Z",
+    "transactionHash": "0x72c0fda6bcbec82a57a1c65333b01a0af0a13290ef8602c050cce47182b601f4",
+    "gridTileId": "1,-2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 30,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T10:49:58.000Z",
+    "transactionHash": "0xc20aef4f63ecc8a832ae19176f69830aadc5bf383ea7f440638e1c9e50e5c2e1",
+    "gridTileId": "3,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 10,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T10:49:59.000Z",
+    "transactionHash": "0x9a49c9753e8442b2ed506ee493e0149d41e721a36d60c4c90bb04d70441ad8d2",
+    "gridTileId": "1,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 35,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T10:50:06.000Z",
+    "transactionHash": "0xfa43cb8eb1a18eb5035f04c32c0e069247cc1c784ac3533a9940c77053af566d",
+    "gridTileId": "3,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 15,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T10:50:07.000Z",
+    "transactionHash": "0x821c03282a0833cc5c1fdadcd69cc3cabbe5a207cc3a3f49ff29f8c29babcce5",
+    "gridTileId": "1,-1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 20,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T10:50:14.000Z",
+    "transactionHash": "0x5e8f8ff32d6109c15c30cb5079a6d11a570ccd49e1e80ef730a72804c8a6f080",
+    "gridTileId": "2,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 35,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T10:50:15.000Z",
+    "transactionHash": "0x4e75af66c3dd604225e0a7573d239b1e0905bf2b837f53a289b16995cb6634b6",
+    "gridTileId": "3,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 20,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:50:21.000Z",
+    "transactionHash": "0xabe6f649defd3bdd21614c5bfa38f773357cb9ce67de065b1af3dca6a863291f",
+    "gridTileId": "2,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 30,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T10:50:23.000Z",
+    "transactionHash": "0xe61402e5a7b0ef805a6c8e1c99f8eed4096fae863feb5d24734da06188f73e6b",
+    "gridTileId": "3,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 20,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T10:50:28.000Z",
+    "transactionHash": "0xe1ebf92b8416a615d7a160f070fe8746174951574ddc05c39b2d5d2217b99954",
+    "gridTileId": "2,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 35,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T10:50:31.000Z",
+    "transactionHash": "0x259c78977d8b0adf4bec91b0e5652822890283b08a9562b4c88c6fb8ba5014ec",
+    "gridTileId": "3,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 25,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T10:50:35.000Z",
+    "transactionHash": "0x3be4b867c49d930cd6e76393cf6dbfd65c36da2d641a28e03be85424dd09eddf",
+    "gridTileId": "2,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 30,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T10:50:39.000Z",
+    "transactionHash": "0xccdb9460f21d09fbe2a81fa3b8673239db40c28894b9ec4b4afe85321f3cf795",
+    "gridTileId": "3,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 30,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T10:50:42.000Z",
+    "transactionHash": "0x255e59e52b5c74a96efcd906be98173e1a355c9d186418cfa1e429ad42d7ad35",
+    "gridTileId": "3,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 30,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T10:50:47.000Z",
+    "transactionHash": "0x883ecc31e7cec728dba74481584f5b655be45fd213a5e0bd9d265adc99c15609",
+    "gridTileId": "3,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 30,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:50:49.000Z",
+    "transactionHash": "0xd862d35180c214166184e0e80ef97401350d960c8eab9be1afbe7fc169400cf9",
+    "gridTileId": "3,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 30,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T10:50:55.000Z",
+    "transactionHash": "0x74cd952ad4247cb43a24ae52c7d1a6a335fa293969e8110bb7f7cd7b023989f1",
+    "gridTileId": "3,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 30,
+    "y": 10,
+    "z": 0,
+    "timestamp": "2026-03-14T10:50:56.000Z",
+    "transactionHash": "0xd258ff63764715d14da19fb019f97e96ed359b1b920d8ee029832502d41c5480",
+    "gridTileId": "3,1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 35,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T10:51:03.000Z",
+    "transactionHash": "0x5990c45885e48dcd311d82131de3fc8c5c767e21ad473f8be21e0a81b731c87c",
+    "gridTileId": "3,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 35,
+    "y": 10,
+    "z": 0,
+    "timestamp": "2026-03-14T10:51:04.000Z",
+    "transactionHash": "0xd85cb822c26097b2b08c68f7398980b157627dd816420a981aa81d58f24970ae",
+    "gridTileId": "3,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 40,
+    "y": 10,
+    "z": 0,
+    "timestamp": "2026-03-14T10:51:11.000Z",
+    "transactionHash": "0xb5a0846f37e9d08dd10c6fcdb15c7b3b56d68fd6a1578ce0ea437f48161aa6ce",
+    "gridTileId": "4,1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 40,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T10:51:12.000Z",
+    "transactionHash": "0x14d42166e76ba529d8f5629c971742512309682e9ee16b898f29aac905995e94",
+    "gridTileId": "4,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 40,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:51:18.000Z",
+    "transactionHash": "0xf0d9c357ee76e9cc4e328050a274efdb988832e191ced1dcbb25f106f18e964d",
+    "gridTileId": "4,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 35,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T10:51:20.000Z",
+    "transactionHash": "0xe8b2e5acebbb480ee6bbca0f6cd826d2b1129df8a1e7c5d785684ed7909d1062",
+    "gridTileId": "3,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 35,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:51:25.000Z",
+    "transactionHash": "0x2d0c90cbf7ab7dc25980bc5d65326ef46bef96e0a480fad5a4d81dd9ce4b8cbb",
+    "gridTileId": "3,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 35,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T10:51:28.000Z",
+    "transactionHash": "0x6395deef3380eef0e18901b8ed988f0700c613bf885cc8daa9d5b150d3e1f6cd",
+    "gridTileId": "3,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 30,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:51:32.000Z",
+    "transactionHash": "0x84b63e7e254b7092b4ece87228efeb3f2a503fbc54ccfd1bc8891599b9ca1ffc",
+    "gridTileId": "3,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 35,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T10:51:36.000Z",
+    "transactionHash": "0xa6ec64d9a1676fe92aab42a928e38919045f872f5dfcc7f89a3c45f6801f80fd",
+    "gridTileId": "3,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 35,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:51:39.000Z",
+    "transactionHash": "0x60923e65a9971f939b9dbcaafa4962ac998b45baff22b8e75f750ab393010945",
+    "gridTileId": "3,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 35,
+    "y": 30,
+    "z": 0,
+    "timestamp": "2026-03-14T10:51:44.000Z",
+    "transactionHash": "0x4b5d621be3886a819f075646d56aceaf99be5c2bbb9dc8d482d5c65d9c4a4da8",
+    "gridTileId": "3,3"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 35,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T10:51:46.000Z",
+    "transactionHash": "0x4ab9ce5f2e6cb22bc6dc0d76887a104ef44af99d0dd71b23c869f5c5cef10472",
+    "gridTileId": "3,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 40,
+    "y": 30,
+    "z": 0,
+    "timestamp": "2026-03-14T10:51:52.000Z",
+    "transactionHash": "0xf3dfabcf211efea82fa8f21fe25ad72858337d6dc486c29ee58dbe4becb75a7e",
+    "gridTileId": "4,3"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 35,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:51:53.000Z",
+    "transactionHash": "0x37349d08cea8dda3d1de981138b26e834b773cb5cd973eff1eabf759a90b0bbe",
+    "gridTileId": "3,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 45,
+    "y": 30,
+    "z": 0,
+    "timestamp": "2026-03-14T10:52:00.000Z",
+    "transactionHash": "0x53ef6667f8f384331b8debf545c8dbbff33ef72743a3863b6bf149195a13d986",
+    "gridTileId": "4,3"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 35,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T10:52:01.000Z",
+    "transactionHash": "0x2d2b7ee1e1b70a29dfbf16d51fe75eed0e4ba37e4790e852c8b1c672d936c73a",
+    "gridTileId": "3,0"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 35,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:52:08.000Z",
+    "transactionHash": "0x2448baf397cbb40c9df135a27f6d211db7a05a43b79ed5e9b8ad0856157a1ca3",
+    "gridTileId": "3,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 45,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T10:52:09.000Z",
+    "transactionHash": "0x0c54251e994fc3772f5ae03cdc8616a1158330228881a38b1d37b4ec3c6e28cb",
+    "gridTileId": "4,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 35,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T10:52:15.000Z",
+    "transactionHash": "0x31f0b389090122483d77c0ee815721e3516617a6f1a35aa1eb82def9d05f4155",
+    "gridTileId": "3,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 45,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T10:52:17.000Z",
+    "transactionHash": "0xcf3b42c66111f46bb2e149836fc3e72bf343fc3b3946dd055991581b6b488a28",
+    "gridTileId": "4,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 30,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T10:52:22.000Z",
+    "transactionHash": "0x416e46bf530e2d928a6b404979f99960f20de62483ac5ab7eeb345f56367a985",
+    "gridTileId": "3,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 50,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T10:52:25.000Z",
+    "transactionHash": "0x4700c835959458c7feeabf8636bfa5cd7774033fa20d172e134f2eeba0583f15",
+    "gridTileId": "5,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 35,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T10:52:29.000Z",
+    "transactionHash": "0x962fbc5ff7611c963fbe747f1d15cee0305a0ef095e87fdc6ec79af8c50bd3c0",
+    "gridTileId": "3,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 50,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T10:52:33.000Z",
+    "transactionHash": "0x4b2ba40f5c7e5e2e627cda3ccd8f6ba9c63aec7d1b67ca29b10bdf077948cc05",
+    "gridTileId": "5,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 40,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T10:52:37.000Z",
+    "transactionHash": "0xdf2e1ffbd37168a9a4849d771827348f64b54ca85cfb1a8e933d3973f2b95127",
+    "gridTileId": "4,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 50,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T10:52:41.000Z",
+    "transactionHash": "0x716600a7893956d94424ad214d130d6da7422b14031ae7a15217c9bde4006dc5",
+    "gridTileId": "5,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T10:52:44.000Z",
+    "transactionHash": "0x6ef785a1473732f40585c910b29639f81fd8f1b4e3d5a1c398324c19362fd171",
+    "gridTileId": "4,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 50,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T10:52:49.000Z",
+    "transactionHash": "0xafe99e4350c191e0b818b24517200dd36baac75c7711c414cf251beff7b2f716",
+    "gridTileId": "5,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:52:50.000Z",
+    "transactionHash": "0xdd7577d95254ed1c4be13ecb1dd2c71b9ce5b4a70870afce8b467ea9941be4b0",
+    "gridTileId": "4,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 50,
+    "y": 10,
+    "z": 0,
+    "timestamp": "2026-03-14T10:52:57.000Z",
+    "transactionHash": "0xf9fe7de0aee2add704cb8f369fab2d25e72fe4f06d36a78681a6b45600331d87",
+    "gridTileId": "5,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:52:58.000Z",
+    "transactionHash": "0x99f44c690ce5c8cb2385bb796ef2cfe593736ee110ef08e7055ab642d57404b1",
+    "gridTileId": "5,-1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:53:05.000Z",
+    "transactionHash": "0x084ae4862ddb40fee5a84c4dd8b2eb9e035a352772d69a51a3794a1eb2f2c885",
+    "gridTileId": "4,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 50,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T10:53:06.000Z",
+    "transactionHash": "0x16106f087e8075c60b7a3ce266a5d4a816f6007195b5e2c2babf3690841f4e76",
+    "gridTileId": "5,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 40,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:53:13.000Z",
+    "transactionHash": "0x632479acf4579676c283ea67a141789ebd1fc26104bc5118c2c5c49db1e516ba",
+    "gridTileId": "4,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 50,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T10:53:14.000Z",
+    "transactionHash": "0xee7e3dad2645f73fa787807c956f03baa5bd74ce6e71de584118d1ea64272b91",
+    "gridTileId": "5,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 40,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T10:53:20.000Z",
+    "transactionHash": "0xdc606618fb2fcd739c1b2e9f7ab6b6115651d68d7c5764c759ed79e851f3bd5e",
+    "gridTileId": "4,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 50,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T10:53:22.000Z",
+    "transactionHash": "0xe3514a15eba2d534265b42918f573ce01596d21cc0dca324fd918540e2419bbf",
+    "gridTileId": "5,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 40,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:53:27.000Z",
+    "transactionHash": "0x8639afcadeed1b8c1342a5b7e268b2d4136e85f3a7245d4f2cb4f623f8e8a972",
+    "gridTileId": "4,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 55,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T10:53:30.000Z",
+    "transactionHash": "0xc4d6618e9a6e199c3a90328ac8b229ee25cff8cbea48b4d57fdc637aea169769",
+    "gridTileId": "5,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 40,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T10:53:34.000Z",
+    "transactionHash": "0x2dc48d44e922b2e248e9c7dc22422467ba874e0c7b0c1df448f599dcf05bd743",
+    "gridTileId": "4,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 60,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T10:53:38.000Z",
+    "transactionHash": "0x89ddcb9d853de52b165304d49baae5e3b30d5dc65ebbef83f1b88b13438e6b96",
+    "gridTileId": "6,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T10:53:41.000Z",
+    "transactionHash": "0x98d7edbacd55a033ce270fab14ddb3ac0211b8966d9a6c8e2fc63e5f102dc1bb",
+    "gridTileId": "4,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 60,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T10:53:46.000Z",
+    "transactionHash": "0xbe1876a6defb2f95edb8fd9b46b0c7f11a7fd88567182090f60816efe39c1957",
+    "gridTileId": "6,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 40,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T10:53:48.000Z",
+    "transactionHash": "0x1de6536d2a0de3cb7ad288e9ff833579251ca7d54a4b224453464912d16d2fa0",
+    "gridTileId": "4,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 65,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T10:53:54.000Z",
+    "transactionHash": "0x5b6d0ad0dfba70e104b900bd8f3f1b7370e6080f3fea7f3a2c414575182bfd97",
+    "gridTileId": "6,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T10:53:55.000Z",
+    "transactionHash": "0x77d80a2a73e4cf7441b9302d2698fe38a03be7806a0a8c26464ffa71c6fc26bd",
+    "gridTileId": "4,-1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 40,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T10:54:02.000Z",
+    "transactionHash": "0x486968a92dd38f70f6f239e51fd0573a9dcdaae7213880b527ae9eb23fdf9b4f",
+    "gridTileId": "4,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 70,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T10:54:03.000Z",
+    "transactionHash": "0xad793f6798c46b90425671a859803f746359dc00fa04fc34bc43287fff9b0b7c",
+    "gridTileId": "7,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 40,
+    "y": -15,
+    "z": 0,
+    "timestamp": "2026-03-14T10:54:10.000Z",
+    "transactionHash": "0xa0e483bd56df174c99dfdcf5631f4c4be093c30dd382a3397e490c248232efcc",
+    "gridTileId": "4,-2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 75,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T10:54:11.000Z",
+    "transactionHash": "0xf9fa0b586710497a09de1ac0cb58a0c18c5d52915f2f6ff27bbd248bf01618f0",
+    "gridTileId": "7,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": -15,
+    "z": 0,
+    "timestamp": "2026-03-14T10:54:17.000Z",
+    "transactionHash": "0x23eb82569dfbd232ebe37e719151f46d6e14d423c05da1f9f047ae1e66c6c28b",
+    "gridTileId": "4,-2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 75,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T10:54:19.000Z",
+    "transactionHash": "0x66d43fdb1f9f4bf81333a384cd247308b46e453e74162126508f5147b1068b18",
+    "gridTileId": "7,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T10:54:24.000Z",
+    "transactionHash": "0x5cd5d7fbc0f5f89b38358527c4626f99bc0c6fec8d7b7eb96be5c7ebcc5d2521",
+    "gridTileId": "4,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 80,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T10:54:27.000Z",
+    "transactionHash": "0xcd7b8eb1ae114abf7afd9db282571329bb7698e668b72c2dbd541f339a4a1aae",
+    "gridTileId": "8,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T10:54:31.000Z",
+    "transactionHash": "0xae7e937cf47b88e662558dca540ff3bf7c25330e46baade37e0403e2b38fedff",
+    "gridTileId": "5,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 85,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T10:54:35.000Z",
+    "transactionHash": "0x8c567b9ed2c507fbcc8fe53f220b696d1178bf0158cd2188324d4af009406df7",
+    "gridTileId": "8,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T10:54:38.000Z",
+    "transactionHash": "0xbf637f8a1150ef0d40caae9570bf78f198ef6224bad80682362810e7b3da0ccd",
+    "gridTileId": "4,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 85,
+    "y": 10,
+    "z": 0,
+    "timestamp": "2026-03-14T10:54:43.000Z",
+    "transactionHash": "0x8894f72d544a47791a42301da70d1d432a9e1ca591e5ed40b562a70b86041215",
+    "gridTileId": "8,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 40,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T10:54:45.000Z",
+    "transactionHash": "0x7a2c48187831919be5ec4c3ebf8f274d75bf9ad4f6825d0bf29281bb78b4891c",
+    "gridTileId": "4,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 85,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T10:54:51.000Z",
+    "transactionHash": "0x9af992f121c4266e1c64e3971bdc698c7048b47aefacd47def27c5ffc8a1a9d1",
+    "gridTileId": "8,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T10:54:52.000Z",
+    "transactionHash": "0x3aba8eba711b40ecae4c6390075bb8d78762e0ea8bbd405bbb4402369897cf6d",
+    "gridTileId": "4,-1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:54:59.000Z",
+    "transactionHash": "0x20d223de9500ef82408effe98d4bb6a91c4d79c0ef4bb7c78745650e98cf9067",
+    "gridTileId": "4,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 85,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T10:55:00.000Z",
+    "transactionHash": "0xf8501d7aed97f0c2844d119343204327794ab6f76dda7a7a47c4db8d6c3e4de9",
+    "gridTileId": "8,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 40,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:55:07.000Z",
+    "transactionHash": "0x4fb57053015fe19f597da101f9047eb4d7f33b49abdf057ffdc933133e60ed83",
+    "gridTileId": "4,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 85,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T10:55:08.000Z",
+    "transactionHash": "0xa635285eadb7b7243f7349a8be9030ef6ec785841ca7b89b99250d18b3153fea",
+    "gridTileId": "8,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:55:14.000Z",
+    "transactionHash": "0x6c3e8855cd25116e9bdebbda530fe79bf161f55de651fff4d3633a6aa6bb13ad",
+    "gridTileId": "4,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 90,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T10:55:16.000Z",
+    "transactionHash": "0xe12187dd52b37d3a5a74b4939c5e8f6abf18ecc1b325dee1625cc2de18b64e81",
+    "gridTileId": "9,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:55:21.000Z",
+    "transactionHash": "0x155b4bf8b02b927e90b13f5acf892be8bf413b846485abd9c024df2737516bd8",
+    "gridTileId": "5,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 90,
+    "y": 30,
+    "z": 0,
+    "timestamp": "2026-03-14T10:55:24.000Z",
+    "transactionHash": "0x04bbfc5c2d057e1cc17d4f42d68733c80a6d4d4a25ebeb8e0ce15ba03082ed09",
+    "gridTileId": "9,3"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:55:28.000Z",
+    "transactionHash": "0x7c525f3f4eb0f7e4c31033ecb89189cc26dc56720c07be332d11aa13b1c84ebb",
+    "gridTileId": "4,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 95,
+    "y": 30,
+    "z": 0,
+    "timestamp": "2026-03-14T10:55:32.000Z",
+    "transactionHash": "0x1d66728a8c9162c060994c0c2324142b7bc5b9957a00490d700ef506e84ed203",
+    "gridTileId": "9,3"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:55:35.000Z",
+    "transactionHash": "0xeb972ccf70cbbc2bffa49e7f640cc5583b8449cfd0db37af51fc560540aab82d",
+    "gridTileId": "5,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 95,
+    "y": 35,
+    "z": 0,
+    "timestamp": "2026-03-14T10:55:40.000Z",
+    "transactionHash": "0xd4ee13960a51f11f8b6ec5ee077cb8b4de4d64c0aec4f6e705abc641c8e020c4",
+    "gridTileId": "9,3"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T10:55:42.000Z",
+    "transactionHash": "0x0c1011a274b87a47716c72ebf6647311505b6025e5297b3c51c4de603292f9fc",
+    "gridTileId": "5,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 100,
+    "y": 35,
+    "z": 0,
+    "timestamp": "2026-03-14T10:55:48.000Z",
+    "transactionHash": "0x30722cd9c4f23369dd5ed0307757f07339d8a6522e8bb5ffbdb0f7c3df23e733",
+    "gridTileId": "10,3"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:55:49.000Z",
+    "transactionHash": "0x17476c7ce978817b091ffd73e013303bc0cdb621bf1f59e077a0cd502b5a2eb7",
+    "gridTileId": "5,-1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:55:56.000Z",
+    "transactionHash": "0x3dc84ec266a1776c0e786eb0eba18428c2c031933d6d4e78198cc6faa4e3d7d6",
+    "gridTileId": "5,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 100,
+    "y": 40,
+    "z": 0,
+    "timestamp": "2026-03-14T10:55:57.000Z",
+    "transactionHash": "0xa0f27a994497a2ef043f36fe769ba2aaa43a1f0ecf1d18ffb691e323c2784ec1",
+    "gridTileId": "10,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T10:56:04.000Z",
+    "transactionHash": "0x2d6673e97c7560e2ca90011b64fef04dd78787cc163506e5c27e81f008049a4c",
+    "gridTileId": "5,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 100,
+    "y": 35,
+    "z": 0,
+    "timestamp": "2026-03-14T10:56:05.000Z",
+    "transactionHash": "0x1eb10a377030244b3e650c2f174f38df4362c4d166d12b168f9fc4b3bb3ae0b7",
+    "gridTileId": "10,3"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T10:56:11.000Z",
+    "transactionHash": "0xe999e7e8085037bb4448991b8ab1ecd3b26e5c04cb2f6ae7cab79e721b2811e6",
+    "gridTileId": "5,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 95,
+    "y": 35,
+    "z": 0,
+    "timestamp": "2026-03-14T10:56:13.000Z",
+    "transactionHash": "0x8b537d6da278c1a892722e8f79ea8eff3345c253df9ae74ef2f5dfacf072ce6a",
+    "gridTileId": "9,3"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T10:56:18.000Z",
+    "transactionHash": "0x51a9639d6da9ffba41823645df23e6ec344e335af250df5899d547940e699456",
+    "gridTileId": "5,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 90,
+    "y": 35,
+    "z": 0,
+    "timestamp": "2026-03-14T10:56:21.000Z",
+    "transactionHash": "0x03e2c4980c9482f1f90b4663c8b9ebe901fd69b7ec7ff2a3290fc4dc7e5f2b57",
+    "gridTileId": "9,3"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:56:25.000Z",
+    "transactionHash": "0xa2ced2bea6772846391fda3780eb1d0ddc84da8bc0586ef9fb836d5a82681015",
+    "gridTileId": "5,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 90,
+    "y": 30,
+    "z": 0,
+    "timestamp": "2026-03-14T10:56:29.000Z",
+    "transactionHash": "0x957cccada4e047ec77a3e281df52b8ffe0633edc48d4045e4ae2e77d19a5338f",
+    "gridTileId": "9,3"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:56:32.000Z",
+    "transactionHash": "0x255c502b245de0e2a80a716c9c69fc4f1761424d60791f2f2875d47628a79a86",
+    "gridTileId": "5,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 90,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T10:56:37.000Z",
+    "transactionHash": "0x074664fb0da9dcf82b5fc1f24a28184054da96211a29fec390f53f7cdb397372",
+    "gridTileId": "9,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T10:56:39.000Z",
+    "transactionHash": "0xfb06bbbf54519670e7b817db47fc2e7d81f119fd87cd6c0efdd304fb31522596",
+    "gridTileId": "5,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 95,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T10:56:45.000Z",
+    "transactionHash": "0xd001d048885d976b60e8d6511e246afa02bc4675393c688bec0cc38183cd6a4d",
+    "gridTileId": "9,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T10:56:46.000Z",
+    "transactionHash": "0xce3aae69271c6515b340a91380a470e6e350ea70a2a6de56dde6599a0b82652f",
+    "gridTileId": "5,0"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:56:53.000Z",
+    "transactionHash": "0x31b0b7d4ab8d3114b1f34709f2a02510f987453323f49818e233fb8174c0668b",
+    "gridTileId": "5,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 95,
+    "y": 30,
+    "z": 0,
+    "timestamp": "2026-03-14T10:56:54.000Z",
+    "transactionHash": "0xfb874087701ede25af4aa21f75f51b79624bc237c1e0d9ea57141a743b3445e7",
+    "gridTileId": "9,3"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T10:57:01.000Z",
+    "transactionHash": "0x255f962f471dcae87eac5475cd561cdbf5d231e166d84de91b112c2f93273eb5",
+    "gridTileId": "5,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 95,
+    "y": 35,
+    "z": 0,
+    "timestamp": "2026-03-14T10:57:02.000Z",
+    "transactionHash": "0x4f56d421b3be79ee8730d17a4b5eba2a6bd7cf91f637bb6d4f08d7d959d42ed7",
+    "gridTileId": "9,3"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:57:08.000Z",
+    "transactionHash": "0x22d5332dbd73a726150f6d83dccabd949b9024b7cac533f492319860f9991de5",
+    "gridTileId": "5,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 95,
+    "y": 40,
+    "z": 0,
+    "timestamp": "2026-03-14T10:57:10.000Z",
+    "transactionHash": "0x1d8d8500f1779a24de0ecdfef7d7ecb8b3377f4909e014a0f0be5a5ae9d39c62",
+    "gridTileId": "9,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T10:57:15.000Z",
+    "transactionHash": "0x50c99ff5275ff3046c52f47645bcbcdb3271ce6f155bd9312cee3489b5c082c2",
+    "gridTileId": "5,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 100,
+    "y": 40,
+    "z": 0,
+    "timestamp": "2026-03-14T10:57:18.000Z",
+    "transactionHash": "0x651a3867350a3d9e5373f2ee0eaf1aaf6e81acfe5d9f7ff59f82c37017fec5c2",
+    "gridTileId": "10,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:57:22.000Z",
+    "transactionHash": "0xcd96ad31f26004b39e22a10fe3d577954fd76166c63f9a07faa9d4f783c869d9",
+    "gridTileId": "5,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 100,
+    "y": 35,
+    "z": 0,
+    "timestamp": "2026-03-14T10:57:26.000Z",
+    "transactionHash": "0xe21a4ee9d0d003fe8144f63472a2ad7b2ed40d8c38f6f541c012ac9422547e30",
+    "gridTileId": "10,3"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 60,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:57:29.000Z",
+    "transactionHash": "0x4af39fe43564314f585932abb8045c6753c1a71e01fd0c531e3ecfacf95ef4a0",
+    "gridTileId": "6,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 105,
+    "y": 35,
+    "z": 0,
+    "timestamp": "2026-03-14T10:57:34.000Z",
+    "transactionHash": "0x07ad45f8dff165acd651a2136b50e14e5d517213a4c23aa949def1848190ba4f",
+    "gridTileId": "10,3"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 60,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T10:57:36.000Z",
+    "transactionHash": "0x6a7f9d58d5553f58915f267aff8593fbb92d5c0386780f5a84c48d3a81a48c02",
+    "gridTileId": "6,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 105,
+    "y": 30,
+    "z": 0,
+    "timestamp": "2026-03-14T10:57:42.000Z",
+    "transactionHash": "0xc4ec0e419fbc14ac31dec3ed596cc7632cf960952e8fc6df21411d810326cda2",
+    "gridTileId": "10,3"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T10:57:43.000Z",
+    "transactionHash": "0xab117ae21589ed6c60c916d1229afe362dcb1aa528fce973caf534ea2fb24cb0",
+    "gridTileId": "5,0"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:57:50.000Z",
+    "transactionHash": "0xd1290a5df0260337c93be63f6d8a28772685d6a5fc27c6a86ac096c5654714c6",
+    "gridTileId": "5,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 105,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T10:57:51.000Z",
+    "transactionHash": "0xff936ceff312f326326eb540b5d3528ba387b4cc3a7aec3004693b8506bd5591",
+    "gridTileId": "10,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T10:57:58.000Z",
+    "transactionHash": "0x54158082c4f63ca0664a7bf94afb017ac7e2d21b4ba6cff125e1d6a6dffb3315",
+    "gridTileId": "5,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 110,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T10:57:59.000Z",
+    "transactionHash": "0x4e090fa9761728702645174c453d4daea67d139a58dfee1daee945eeb5bf4e60",
+    "gridTileId": "11,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:58:05.000Z",
+    "transactionHash": "0x8c0d7ad75b709bc1bc54bb9ae60b4425945df23b3a035e2185685162998e29d7",
+    "gridTileId": "5,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 105,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T10:58:07.000Z",
+    "transactionHash": "0x7144d3c6595ad288e554ce9c3992f20dfb99dda52ea59caa882ccde3176db28f",
+    "gridTileId": "10,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T10:58:12.000Z",
+    "transactionHash": "0x51c8862005a1d04fc83f910254fca3c6c9b802d50b56416d42a9e31cc1447e21",
+    "gridTileId": "5,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 105,
+    "y": 30,
+    "z": 0,
+    "timestamp": "2026-03-14T10:58:15.000Z",
+    "transactionHash": "0x5850afaecf3957e7d7b550a90269ee1d3cb12206f7f17a2ee63f91a6fb9c180b",
+    "gridTileId": "10,3"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T10:58:19.000Z",
+    "transactionHash": "0x777d09b2fbd69850c0d6809a974dfd939f583138c38cba16c2a284936d586a49",
+    "gridTileId": "5,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 105,
+    "y": 35,
+    "z": 0,
+    "timestamp": "2026-03-14T10:58:23.000Z",
+    "transactionHash": "0x91692cee2ae987e23fdad3578c78280fc7ec10404f6decd5ef7e50653f8ba15c",
+    "gridTileId": "10,3"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T10:58:26.000Z",
+    "transactionHash": "0x2127ff1a427491106fc44ab356d9993b54f5d409d4f9eb67d1bc28aab9b861bc",
+    "gridTileId": "4,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 110,
+    "y": 35,
+    "z": 0,
+    "timestamp": "2026-03-14T10:58:31.000Z",
+    "transactionHash": "0xa5977d2c9fda367e4320ad5d7558bd7015c0b05839e3d8a0473284d124eff0b9",
+    "gridTileId": "11,3"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T10:58:33.000Z",
+    "transactionHash": "0x783e38e5f617de42efcd9f836bba948ff75836f5e2ab8ec4b65cb5f20dcebfb4",
+    "gridTileId": "5,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 110,
+    "y": 40,
+    "z": 0,
+    "timestamp": "2026-03-14T10:58:39.000Z",
+    "transactionHash": "0x37c9ff199385f3b283f9e4cd12f4394236c7ea922eff019bea664c04064a2acb",
+    "gridTileId": "11,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T10:58:40.000Z",
+    "transactionHash": "0xa8c7ad735b7ac29e2c4f6d9110b90493a6e7e692f3994f3d65808b9b6eb388f0",
+    "gridTileId": "4,-1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T10:58:47.000Z",
+    "transactionHash": "0xb074d943127c048b2790b9a7b112ab3375837f166476dcf7a7658e568cf2f60e",
+    "gridTileId": "5,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 115,
+    "y": 40,
+    "z": 0,
+    "timestamp": "2026-03-14T10:58:48.000Z",
+    "transactionHash": "0xc121138f4a7d35fc91f1dcc039fb340a36247a79dc0a49cbcc21a2ee27df28a9",
+    "gridTileId": "11,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T10:58:55.000Z",
+    "transactionHash": "0x6d949370483f2bd05d8b443e5557f0c94fbd8ab2769967072a83ca7b60e13533",
+    "gridTileId": "5,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 115,
+    "y": 45,
+    "z": 0,
+    "timestamp": "2026-03-14T10:58:56.000Z",
+    "transactionHash": "0x3f0fad5e9c424b473232fd93ca0ceace9795ce1d03cf922ee65f18faf1931007",
+    "gridTileId": "11,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 60,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T10:59:02.000Z",
+    "transactionHash": "0x288470e8e82d9b3e72d805994517ade5d6dbb020e8d5144f5f9097106092b2b2",
+    "gridTileId": "6,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 120,
+    "y": 45,
+    "z": 0,
+    "timestamp": "2026-03-14T10:59:04.000Z",
+    "transactionHash": "0x6f81fca5fd6b63dc1cc2deb36991c3c667f5e18bbc088a3a09ceec63e0a76b7f",
+    "gridTileId": "12,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 60,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:59:09.000Z",
+    "transactionHash": "0x6b5a35a2203f5c620095db6c12b04fa6461bd84e43f7ed40f307b29905711360",
+    "gridTileId": "6,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 115,
+    "y": 45,
+    "z": 0,
+    "timestamp": "2026-03-14T10:59:12.000Z",
+    "transactionHash": "0x4781e090ea3005363099e31fbcd3d57824714acd6839d85e9b501ebc659efe65",
+    "gridTileId": "11,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:59:16.000Z",
+    "transactionHash": "0xbc6ceb1e3c8e4daaaf1965c3edc833832d668e2c52436d1ce3155f372b16bd49",
+    "gridTileId": "5,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 115,
+    "y": 40,
+    "z": 0,
+    "timestamp": "2026-03-14T10:59:20.000Z",
+    "transactionHash": "0x0080a242b2002ad49a848c125753e04988369d1e78d5e081bed7b3deb8133ec1",
+    "gridTileId": "11,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 60,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:59:23.000Z",
+    "transactionHash": "0x7dc07f291ef8fc61967303c45610f0d75151d0531b72a64029e59ec9f2f6e1e3",
+    "gridTileId": "6,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 115,
+    "y": 35,
+    "z": 0,
+    "timestamp": "2026-03-14T10:59:28.000Z",
+    "transactionHash": "0x8bb0cb8ee3408a11dfd566bab4a4a6c01445ce4171ca92d743b1d15a0597e91e",
+    "gridTileId": "11,3"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 60,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T10:59:30.000Z",
+    "transactionHash": "0x49e858353a972d6bf6d39d9bcbabfc331b4c410b054d7389cb5b318d230f1d2c",
+    "gridTileId": "6,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 115,
+    "y": 40,
+    "z": 0,
+    "timestamp": "2026-03-14T10:59:36.000Z",
+    "transactionHash": "0x0b6e6c5911818f5e8c89bc46591db26504247053f5dab12d98a6c78698212b7d",
+    "gridTileId": "11,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 65,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T10:59:37.000Z",
+    "transactionHash": "0x2613593b7863cf1681498a9e5026f6cd65adf5dfe3d8e77a40efbb751ba450c2",
+    "gridTileId": "6,0"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 65,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T10:59:44.000Z",
+    "transactionHash": "0x55e9dce587ac12f69a4931aeea6205ed4e099a5b250b716bcc677b8da7005cb6",
+    "gridTileId": "6,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 110,
+    "y": 40,
+    "z": 0,
+    "timestamp": "2026-03-14T10:59:45.000Z",
+    "transactionHash": "0xd753622b33396a0f575724177f2a64455bb517304ac0fdd078e03f806ffc186b",
+    "gridTileId": "11,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 65,
+    "y": 10,
+    "z": 0,
+    "timestamp": "2026-03-14T10:59:52.000Z",
+    "transactionHash": "0x376eb380820a331d1967aa1568e35790edf300a267a76fdf57158fafe362e484",
+    "gridTileId": "6,1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 115,
+    "y": 40,
+    "z": 0,
+    "timestamp": "2026-03-14T10:59:53.000Z",
+    "transactionHash": "0x2e211925e7c972285826521d19fd7d2d9176588834502a3d60beba97e4c9e9b9",
+    "gridTileId": "11,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 70,
+    "y": 10,
+    "z": 0,
+    "timestamp": "2026-03-14T10:59:59.000Z",
+    "transactionHash": "0xa0d7542f81b0e7a62682d723cdab5748f207fc337349d97e23684750413b1369",
+    "gridTileId": "7,1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 110,
+    "y": 40,
+    "z": 0,
+    "timestamp": "2026-03-14T11:00:01.000Z",
+    "transactionHash": "0xa111044c0bf9748fa135b785f547316fd7e0f1dd381d6d17236ed5ce1f4e425f",
+    "gridTileId": "11,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 70,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:00:06.000Z",
+    "transactionHash": "0xcf6e8c973cf3b9d5d3a4353bb2c9a4f53497dbc1488c91d5579a238e869bae35",
+    "gridTileId": "7,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 105,
+    "y": 40,
+    "z": 0,
+    "timestamp": "2026-03-14T11:00:09.000Z",
+    "transactionHash": "0xd7aa3eaa35d9862eb4ac5919a8016b4525c5d65001b44b735de3159a5f43e0c6",
+    "gridTileId": "10,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 65,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:00:13.000Z",
+    "transactionHash": "0x880edcd41909c040bdedf4a160a37d7cb6af39ea1df73ede0f784adc846be4c7",
+    "gridTileId": "6,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 105,
+    "y": 35,
+    "z": 0,
+    "timestamp": "2026-03-14T11:00:17.000Z",
+    "transactionHash": "0x14ffb8f7159f407976672f1d5e59adb9161c65e091ee80b970ef7cf2c13cad29",
+    "gridTileId": "10,3"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 65,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T11:00:20.000Z",
+    "transactionHash": "0x9b49155bfb1c5eedc664ec0d794a872fdcc4c037678dcffd34410324d0813899",
+    "gridTileId": "6,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 105,
+    "y": 40,
+    "z": 0,
+    "timestamp": "2026-03-14T11:00:25.000Z",
+    "transactionHash": "0x454d40c6af0c5c603060a66b076c60cd24087495163f250b9468e592c126ef4a",
+    "gridTileId": "10,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 70,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T11:00:27.000Z",
+    "transactionHash": "0x4944476e22da746c9eebf8dab7b28154bbb171d9d3e3edeb1f68c6375090cc48",
+    "gridTileId": "7,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 105,
+    "y": 35,
+    "z": 0,
+    "timestamp": "2026-03-14T11:00:33.000Z",
+    "transactionHash": "0xd1d4e96924df0796f837000106a5dc3db5add81faa5b12ab1d2434d0bb2de0db",
+    "gridTileId": "10,3"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 70,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:00:34.000Z",
+    "transactionHash": "0x52fe6924796e4b4d1ced08a50e82832ccc9727379a13265df16f22ec7238fc1d",
+    "gridTileId": "7,-1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 70,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T11:00:41.000Z",
+    "transactionHash": "0x75b9f00f0cc6dba653b4afcc3c65bf69999d11bb261fe536449f80821dfbc818",
+    "gridTileId": "7,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 105,
+    "y": 30,
+    "z": 0,
+    "timestamp": "2026-03-14T11:00:42.000Z",
+    "transactionHash": "0xedacdff394090ecd92eb225c4a781f1411bc88def3817ce9c28b2482670e7c68",
+    "gridTileId": "10,3"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 65,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T11:00:49.000Z",
+    "transactionHash": "0x876f18fd66f965cf81802a8ac20e9a58ae4064fac4637a01e65fd8735c828e65",
+    "gridTileId": "6,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 105,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T11:00:50.000Z",
+    "transactionHash": "0x5a06fec45d0dbcca2179a2227f04410d187a4413aaf02c455609f8ace4d35bdf",
+    "gridTileId": "10,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 65,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:00:56.000Z",
+    "transactionHash": "0xfeddd35309b23520e606ecc5b84bc93f5564cdecf0c76cce38397bfc32d4e666",
+    "gridTileId": "6,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 105,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T11:00:58.000Z",
+    "transactionHash": "0x9315d5b5552975c0be89ea2ce801935c3cfd14514b138b70bb5fb5cbfa72b44a",
+    "gridTileId": "10,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 65,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T11:01:03.000Z",
+    "transactionHash": "0xbe164ed940ba0d519d3f8773203a8e7be967f69abb7f23dde949cfee864fdc69",
+    "gridTileId": "6,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 110,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T11:01:06.000Z",
+    "transactionHash": "0xf1da9fa03a12e343453500bc36ac176a84823785c6cfafe564c9cc9a1ddc0198",
+    "gridTileId": "11,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 65,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:01:10.000Z",
+    "transactionHash": "0x023bfe241d55f77b3249a9281f89119b7e15f4dbdf13a312c97c027bb8fab2be",
+    "gridTileId": "6,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 110,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T11:01:14.000Z",
+    "transactionHash": "0x013ba7f647949fba9965545e3c675c766514be9123ce0e03da8d337e387fde8c",
+    "gridTileId": "11,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 65,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T11:01:17.000Z",
+    "transactionHash": "0x75c35dd8b42c68df0200db0a3c07753ff05b7be9d3da91ebb2b63ae56f40c77a",
+    "gridTileId": "6,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 110,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T11:01:22.000Z",
+    "transactionHash": "0x033072f19d07e0b57299bb1f582c5c9d96f75977ddcc6dc225d64863edba0f4a",
+    "gridTileId": "11,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 70,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T11:01:24.000Z",
+    "transactionHash": "0x5de3d6f5176e36fb6768180568973061b78633245f3946a724533adcc47be5a1",
+    "gridTileId": "7,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 115,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T11:01:30.000Z",
+    "transactionHash": "0xb9826e90e419d5a4fcd3ff4040eb6d75436b13869dd2d57663172187300542f9",
+    "gridTileId": "11,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 65,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T11:01:31.000Z",
+    "transactionHash": "0x20c62ad92cef3b92f4d9980b4c551187f5d4309f4ed6415353c0d90cd5ebb954",
+    "gridTileId": "6,0"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 60,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T11:01:38.000Z",
+    "transactionHash": "0x49e545c48f8d26b22f2edcaec1aaa2ce9e9360d42ef6d0f57a9a2bcfb9ae3a20",
+    "gridTileId": "6,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 115,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T11:01:39.000Z",
+    "transactionHash": "0xae6c5b081c824e6d459d04f41349cae028383b97bc4aa7adcd9a65626cd1f771",
+    "gridTileId": "11,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 60,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:01:47.000Z",
+    "transactionHash": "0x3af058be03b7289e5bd5b069025b94e4f5c381e5c170fcf3792836dd69771933",
+    "gridTileId": "6,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 120,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T11:01:48.000Z",
+    "transactionHash": "0x39f863c2216de0b0023687787ca709d586ff4510ef273bdf45b8e2d629e8d6cd",
+    "gridTileId": "12,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:01:54.000Z",
+    "transactionHash": "0x8579dbee308ed793914def3e5249b834b1cc9dfb9a78ce4dd2f181ff77d20708",
+    "gridTileId": "5,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 120,
+    "y": 10,
+    "z": 0,
+    "timestamp": "2026-03-14T11:01:56.000Z",
+    "transactionHash": "0xad308fe38cd48d9107543751389839af9c9364bcb2f765adda4af74a799004a7",
+    "gridTileId": "12,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:02:01.000Z",
+    "transactionHash": "0x08476b3c28a62782b0827839be81e8457c0a525245f49cb2353d7e8ac646aca7",
+    "gridTileId": "5,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 120,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:02:04.000Z",
+    "transactionHash": "0x934d243132d918e55560fd4845ee6c0f4249f8602016108e3b856a18a7ab93fb",
+    "gridTileId": "12,0"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:02:08.000Z",
+    "transactionHash": "0x530b0aed94f0b3dc88d25f150e9e64e7319b95ce3de6af1bcdf32a33bf8d394e",
+    "gridTileId": "4,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 120,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T11:02:12.000Z",
+    "transactionHash": "0xbd532a245452a403f556f85a91bc4718b9067b2c69ed9c95dac0974bcb751269",
+    "gridTileId": "12,0"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:02:15.000Z",
+    "transactionHash": "0x59f96cb9ad0e45e46e1284b0fd8dd46467cf74a034900a75b4327f52ff723ea5",
+    "gridTileId": "5,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 120,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:02:20.000Z",
+    "transactionHash": "0xafe4c9520b1d07d3f7a7440a1c5ad25f45cd8235afde85c6bb3f4aebaba41a9d",
+    "gridTileId": "12,-1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T11:02:22.000Z",
+    "transactionHash": "0x9fbdc42009df2fece52a7fb0f2759f27e302a23908275815a5a5de564790761e",
+    "gridTileId": "5,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 120,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T11:02:28.000Z",
+    "transactionHash": "0xbbaeb2b7694f5d10843ae0fd70c0f6cb6024cbfc5653c20be0c1afdadef6ed25",
+    "gridTileId": "12,0"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": -15,
+    "z": 0,
+    "timestamp": "2026-03-14T11:02:29.000Z",
+    "transactionHash": "0x0ae80ce18dc8025cd125462ef72680a53f51b2290bfde63f401b95536fe26a82",
+    "gridTileId": "5,-2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": -15,
+    "z": 0,
+    "timestamp": "2026-03-14T11:02:36.000Z",
+    "transactionHash": "0x4b81bd46532f0901cc3cc060026af88697be251e365e3e583c632cd40ecc06d6",
+    "gridTileId": "5,-2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 120,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:02:37.000Z",
+    "transactionHash": "0x8cbca7346d192c597ae999fa5b33962d8ece7f92e720df82dbb1ab81894d5fa2",
+    "gridTileId": "12,0"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": -15,
+    "z": 0,
+    "timestamp": "2026-03-14T11:02:44.000Z",
+    "transactionHash": "0xebeadac14074abbae89d8382b7e3a41f7ae31528dbc81f0b65a9288c932a4786",
+    "gridTileId": "5,-2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 120,
+    "y": 10,
+    "z": 0,
+    "timestamp": "2026-03-14T11:02:45.000Z",
+    "transactionHash": "0xd1b459c6f25dabefa562571ea47b43ac7b8ebdde66e4b9dbda843c490b51a20e",
+    "gridTileId": "12,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T11:02:51.000Z",
+    "transactionHash": "0xbaa782ce9fc88e1a19c9d0ff8ae62e28c53675a63abc4d58048a1bb34b74122f",
+    "gridTileId": "5,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 125,
+    "y": 10,
+    "z": 0,
+    "timestamp": "2026-03-14T11:02:53.000Z",
+    "transactionHash": "0x90f4599951e9295d6472aa09005d07001692688b99cf5abd5f675c5f7c20fe0a",
+    "gridTileId": "12,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:02:58.000Z",
+    "transactionHash": "0xd5c3d26587e526772f52f48bdc9524542e3a750d7fc02099df0093c08358a6b0",
+    "gridTileId": "5,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 125,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T11:03:01.000Z",
+    "transactionHash": "0x2cbc8ae39b6b61329877f8ac95c3e48d0bb03b09c53f5decd4457b9fd2edc186",
+    "gridTileId": "12,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:03:05.000Z",
+    "transactionHash": "0x34b3e4b23cdc5c089d4724c86945799909aabe84ead3713c5a5eb7fe9863d126",
+    "gridTileId": "4,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 125,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T11:03:09.000Z",
+    "transactionHash": "0xb1893899038a8f9b21f254d97b72219020dbda8d4ccfe7eb5c7e42fcf02d5473",
+    "gridTileId": "12,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T11:03:12.000Z",
+    "transactionHash": "0x6a9cfabeb93e349f86e65ca5c293e2cd3762416fca5e7485bae964cc93ad9fab",
+    "gridTileId": "4,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 125,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T11:03:17.000Z",
+    "transactionHash": "0xba95f28bc6a5e97da1b72795ace9b17e0aba0c0d6d89f14b00ca58a39bdae7e1",
+    "gridTileId": "12,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T11:03:19.000Z",
+    "transactionHash": "0x049839e1499f613c87a2d953ae5c96a16375999abd46bc65a4339fc055bb371c",
+    "gridTileId": "5,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 130,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T11:03:25.000Z",
+    "transactionHash": "0x40c84607a8e0ab25e00d358fda3a2b0a902f232f49d848f5559d0b0388670621",
+    "gridTileId": "13,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:03:26.000Z",
+    "transactionHash": "0x811ef7058c18cc50f818d60a1af0f044a0d477c5fa6f6214016887ddbb25396f",
+    "gridTileId": "5,0"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:03:33.000Z",
+    "transactionHash": "0x71e8f6db99a0e0c7370e646ce4851c31c304ae5a12245df598d2294d86ad7fe2",
+    "gridTileId": "4,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 135,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T11:03:34.000Z",
+    "transactionHash": "0x76da88feca2defc61a41f836c38043ebecab882823ad4eb302188dd0e83f76ec",
+    "gridTileId": "13,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:03:41.000Z",
+    "transactionHash": "0xea42f189800df13c685a76a9908ef177b6209c943ea7b827332a20a5b5068a49",
+    "gridTileId": "5,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 135,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T11:03:42.000Z",
+    "transactionHash": "0x22a9cb9a08d79c7a3ced8094c8b653de8f0c2ae9b3616d844a13bdf6ac0a5ee6",
+    "gridTileId": "13,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:03:48.000Z",
+    "transactionHash": "0x1667b28de8f028f05b4ae6b464abdac29aa200a77dd33886ce059b0595ca9528",
+    "gridTileId": "5,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 135,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T11:03:50.000Z",
+    "transactionHash": "0x37179f08be47f2b2524cf5f5ab0020bb2d264c8f95942ac322530245cdda28b4",
+    "gridTileId": "13,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 60,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:03:55.000Z",
+    "transactionHash": "0x8d8af5993502b62e917a7d2eacfe0e2bf6fb66830b114e3c43ac497fdcddc49b",
+    "gridTileId": "6,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 135,
+    "y": 30,
+    "z": 0,
+    "timestamp": "2026-03-14T11:03:58.000Z",
+    "transactionHash": "0x61345c6a261cd7ad058a0128044d632335ca2201ab668cd06b9439c287fa99f8",
+    "gridTileId": "13,3"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:04:02.000Z",
+    "transactionHash": "0xbda8b7de95f3d3fe47575a28595ea1e115d851eca7f39221e9db6a7428b47abd",
+    "gridTileId": "5,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 130,
+    "y": 30,
+    "z": 0,
+    "timestamp": "2026-03-14T11:04:06.000Z",
+    "transactionHash": "0x2c515c1d1196893b276f440911659e4badb2b5fe2267b95fb92aed9938a7de90",
+    "gridTileId": "13,3"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:04:09.000Z",
+    "transactionHash": "0x9cefe82ef112acc97de79f8beeba253b0bb59a73c36a319756d4d2855c3d8af2",
+    "gridTileId": "5,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 130,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T11:04:14.000Z",
+    "transactionHash": "0xca35367c45abefcb67035027ba8158b583ad01ebc5e3f94f8b0337797daa8fef",
+    "gridTileId": "13,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:04:16.000Z",
+    "transactionHash": "0x08e7792fb1e70cc1a90a96d31abec4c8847a0b1b21891d5232db1581f52e2f52",
+    "gridTileId": "4,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 130,
+    "y": 30,
+    "z": 0,
+    "timestamp": "2026-03-14T11:04:22.000Z",
+    "transactionHash": "0x57e01ed8cdad00e10d3614e06f176d1b6a2c1066165703bae76e0c9a583706e4",
+    "gridTileId": "13,3"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T11:04:23.000Z",
+    "transactionHash": "0xa07090cb92923ce989fa66d1ff8aed492240858e334225e2d26bd0c86d6c0434",
+    "gridTileId": "4,0"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:04:30.000Z",
+    "transactionHash": "0x90b092a00ec2150a8de5c35896392e4c3a10425f01f0312ececb39e3c38517db",
+    "gridTileId": "4,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 130,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T11:04:31.000Z",
+    "transactionHash": "0xf868289a0bb6e78572f6facda91f6f36b8174897079e8a1d0ca49e123fd69597",
+    "gridTileId": "13,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 40,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:04:38.000Z",
+    "transactionHash": "0xa8eded5b7ae1119022341e3e0ec2901f4f1e4e4e45bac803b2f1f43f72d4511b",
+    "gridTileId": "4,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 130,
+    "y": 30,
+    "z": 0,
+    "timestamp": "2026-03-14T11:04:39.000Z",
+    "transactionHash": "0xbd858af2089eeac340ab434196c620af9d43253c3de536630ac48da1d8642ca9",
+    "gridTileId": "13,3"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 35,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:04:45.000Z",
+    "transactionHash": "0xfb757419b310831850096701ff41423efaee8d65451404b44f3d82a878b78942",
+    "gridTileId": "3,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 130,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T11:04:47.000Z",
+    "transactionHash": "0xefbb1bded4de8078681db4397ce0cbc5d6c6ebb8354d47ac96206f8ac8cf1f20",
+    "gridTileId": "13,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 40,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:04:52.000Z",
+    "transactionHash": "0xb4e8d018186c0a97860da27537f294b7ede49d33b30e9baafebb16a131f8e001",
+    "gridTileId": "4,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 130,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T11:04:55.000Z",
+    "transactionHash": "0x041ac1ff402e1eab19c185e9a6ca60704589f09b46b5d2b2f1f5c376964cd4a2",
+    "gridTileId": "13,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 40,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T11:04:59.000Z",
+    "transactionHash": "0xb017cec9872b0d0b40522d8d178aef1cb5a822311b9eea947cebf9877e4b7a1d",
+    "gridTileId": "4,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 130,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T11:05:03.000Z",
+    "transactionHash": "0x7264c9d98650bc4400b9d20eb411ffdced594538e1c2f08bad1e04a0b062673e",
+    "gridTileId": "13,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T11:05:06.000Z",
+    "transactionHash": "0x0b6e277daeaf47fa72a0c343df664ec5db6a57aba352c29bcea5847be1b7662d",
+    "gridTileId": "4,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 130,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T11:05:11.000Z",
+    "transactionHash": "0x0008bf9d88415a86665528e189f9366d3bbf8f1237cc1622116358ba2c16b449",
+    "gridTileId": "13,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:05:13.000Z",
+    "transactionHash": "0x1b0626625d8b424694b0bb222d3f93111e8fec0faa857a9a29cd816e90a8b95a",
+    "gridTileId": "4,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 125,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T11:05:19.000Z",
+    "transactionHash": "0xf42f87b5e3695c305542adad9763c9090e9f8c37234203d313e3b9278473aad8",
+    "gridTileId": "12,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:05:20.000Z",
+    "transactionHash": "0x476c7e39757cc6f0933903e2b95749469dea737c841b2199b5a139ec6fa202bd",
+    "gridTileId": "5,0"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T11:05:27.000Z",
+    "transactionHash": "0xe33e77508893ffbf13676ce0c1a97e2526a6f677d777f4b9560392b10198f918",
+    "gridTileId": "5,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 130,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T11:05:28.000Z",
+    "transactionHash": "0xf96c4ead4740558b64b25e07806087a792ccc930cab7c3171237f4ae4a9a72ad",
+    "gridTileId": "13,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:05:35.000Z",
+    "transactionHash": "0x5af2f00bb154d3889bc93f7b301317901a20e36d9d373277678df2cd4908a965",
+    "gridTileId": "5,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 135,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T11:05:36.000Z",
+    "transactionHash": "0xc12f7d9e4d55c7e767ae27077fe7c785a50271b24f06e2360c9e25c7c0fd6c0a",
+    "gridTileId": "13,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:05:42.000Z",
+    "transactionHash": "0x31e658f1261b7f828346bdbaa99a3ba9a0f0c089a173c827ed095f4049eafa5c",
+    "gridTileId": "5,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 140,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T11:05:44.000Z",
+    "transactionHash": "0x5985368253baf90cdb358527851b617b66bce96b780f47b73679b40f8fb2019f",
+    "gridTileId": "14,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T11:05:49.000Z",
+    "transactionHash": "0x814db29c999f2044757bb1fa77d7a29fe284f1713b999917c9255e65d7627c15",
+    "gridTileId": "5,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 135,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T11:05:52.000Z",
+    "transactionHash": "0x0cdc64014fe2566e9dd9f70f8fc2f9ee6a07830a9c4f839a38a6fd52dafdd3e5",
+    "gridTileId": "13,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:05:56.000Z",
+    "transactionHash": "0x63de89ec920644a37cbb4e3e6aeffb9205c3bf6f27263c15e2f5cdf3d33dabac",
+    "gridTileId": "5,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 130,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T11:06:00.000Z",
+    "transactionHash": "0x3e3e5b69f7d629eb24fd9eefd7cbe74e7c8783f7fa999516ac37efc9252ffd17",
+    "gridTileId": "13,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 60,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:06:03.000Z",
+    "transactionHash": "0xa8ec155d829e023b9900fd4fb3e15356a8963f725af5975467d077a5c5b8200f",
+    "gridTileId": "6,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 125,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T11:06:08.000Z",
+    "transactionHash": "0x08aaf93905b71f71bc5aca99ab6103f7de5cb24653f7ab48dcf7fe7b2222e9b0",
+    "gridTileId": "12,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 60,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T11:06:10.000Z",
+    "transactionHash": "0x55ea3fd5889940bfe2a09dbaf2885e70c2a907ebaabb38a406c31afde71449f0",
+    "gridTileId": "6,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 120,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T11:06:16.000Z",
+    "transactionHash": "0xeb826cf5c93f3b4d5d7eb1360c0da876aed39a9221b1ca39982b3369799b12ab",
+    "gridTileId": "12,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 60,
+    "y": -15,
+    "z": 0,
+    "timestamp": "2026-03-14T11:06:17.000Z",
+    "transactionHash": "0x7b0b11280983c05cad03aafa89867ac0ad785dc5abded820253db0cb32f8d907",
+    "gridTileId": "6,-2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 60,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T11:06:24.000Z",
+    "transactionHash": "0x5a214f9b011143e8dfb7d210fc87897494e9c61ab18bc8d074c93d3a04282ddf",
+    "gridTileId": "6,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 120,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T11:06:25.000Z",
+    "transactionHash": "0x031fa60b7d3cb480e8f64ba9f97502e4b5eecb265425014cafb83ee722874d06",
+    "gridTileId": "12,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 60,
+    "y": -15,
+    "z": 0,
+    "timestamp": "2026-03-14T11:06:32.000Z",
+    "transactionHash": "0xa319e9769f94f41a714512d5e0b5476ee3cc5066b2acfdc53e053cd4fb16bff4",
+    "gridTileId": "6,-2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 120,
+    "y": 10,
+    "z": 0,
+    "timestamp": "2026-03-14T11:06:33.000Z",
+    "transactionHash": "0xd08d7f48082f62a5722feb86b62d586b089a89fa6c4a12ce0a53fd1c52f1245d",
+    "gridTileId": "12,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": -15,
+    "z": 0,
+    "timestamp": "2026-03-14T11:06:39.000Z",
+    "transactionHash": "0x3a6aec7d6e0e83f15577d27554ee33d40c89844e0f05e91991b44965fc3fe1cb",
+    "gridTileId": "5,-2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 115,
+    "y": 10,
+    "z": 0,
+    "timestamp": "2026-03-14T11:06:41.000Z",
+    "transactionHash": "0xbeda3b62941a5dbd35c7729bc2bb2b59e55bbd52c68b504147fccc13a0bdc5c3",
+    "gridTileId": "11,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": -15,
+    "z": 0,
+    "timestamp": "2026-03-14T11:06:46.000Z",
+    "transactionHash": "0xcf6d42321ea25a5dea6576c545fe9000a27be3f7106a6af203c7db391bd5cce8",
+    "gridTileId": "5,-2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 120,
+    "y": 10,
+    "z": 0,
+    "timestamp": "2026-03-14T11:06:49.000Z",
+    "transactionHash": "0xffe48f7a51565413b4773b7df82b3577175193c101a365fd38a63d7e6c96bd2d",
+    "gridTileId": "12,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": -15,
+    "z": 0,
+    "timestamp": "2026-03-14T11:06:53.000Z",
+    "transactionHash": "0xc0544238401554aa7fdea9081e84def6d7c900a1553798cb245044b6014f3836",
+    "gridTileId": "5,-2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 120,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:06:57.000Z",
+    "transactionHash": "0x348f215e86e76f45aff2fbd475f2cce3a1a0e42c0d88b8997e89e75b293989c6",
+    "gridTileId": "12,0"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T11:07:00.000Z",
+    "transactionHash": "0xfa570525c3f2b2c5b39f64671bb4f25e33b17554d3cdf8a3c8c5e5b14de3d642",
+    "gridTileId": "5,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 120,
+    "y": 10,
+    "z": 0,
+    "timestamp": "2026-03-14T11:07:05.000Z",
+    "transactionHash": "0xc1cff9a79bc9fb9c3b93cd5c3efe416f25a14eb493e7c769d64cc7646af98c1e",
+    "gridTileId": "12,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": -15,
+    "z": 0,
+    "timestamp": "2026-03-14T11:07:07.000Z",
+    "transactionHash": "0x099b63eaddc6094943dbac6ab5474969b42c2a4287dc1f17ee08d8d1e84f2dde",
+    "gridTileId": "5,-2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 120,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T11:07:13.000Z",
+    "transactionHash": "0x5be5a4b2c9583192c10a00bbe2b9c7bda5a488cd17fd37b4b99c3a7c93f8f5c2",
+    "gridTileId": "12,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 60,
+    "y": -15,
+    "z": 0,
+    "timestamp": "2026-03-14T11:07:14.000Z",
+    "transactionHash": "0x0126014440c3d7515f36c682d494ef1e4dc02d79dae598f0eb4411c6abed35ca",
+    "gridTileId": "6,-2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 60,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T11:07:21.000Z",
+    "transactionHash": "0xee85d3beb9dccfb585bbb5ef6b344ea2900811a26cdb7aa89d46132a4b0c6d69",
+    "gridTileId": "6,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 115,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T11:07:22.000Z",
+    "transactionHash": "0x7a912d397ed73c9ebc6f2ffa6ec1236b1a857b4eb4d295b6970da8ffeed951ad",
+    "gridTileId": "11,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 65,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T11:07:29.000Z",
+    "transactionHash": "0x3e08ec9550dfdb79dd924edc9a0b0b5d3518c547ac49219454e8b0a3ce6f64ce",
+    "gridTileId": "6,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 115,
+    "y": 10,
+    "z": 0,
+    "timestamp": "2026-03-14T11:07:30.000Z",
+    "transactionHash": "0xfb9d3e7326287402f28782c6c1273cc38698095af0012169bd2e2afe3cf59d27",
+    "gridTileId": "11,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 60,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T11:07:36.000Z",
+    "transactionHash": "0x302ae73f0b25ea26e692beeedc98dd0f3d0722f0aef61b898bddf511c726f4d9",
+    "gridTileId": "6,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 115,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T11:07:38.000Z",
+    "transactionHash": "0xd45bd9896c4c7e57c7fa693d082cb4661e3eccb38b004f1ed1a6718ad8e1ff82",
+    "gridTileId": "11,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 60,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:07:43.000Z",
+    "transactionHash": "0x88058164ae35aebb1bc1efd27b8548b42fb2465d69bfeb23970fee5c1b462133",
+    "gridTileId": "6,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 120,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T11:07:46.000Z",
+    "transactionHash": "0xb98fcd98eddd51ac8f044863cabf1e9cadfbb2baa3e2541f0e2f06da16b752fd",
+    "gridTileId": "12,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:07:50.000Z",
+    "transactionHash": "0x4147b7c4b59afbaf3397a8fa222df6a561e627fca9386d1383be8b9c28c44d5e",
+    "gridTileId": "5,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 120,
+    "y": 10,
+    "z": 0,
+    "timestamp": "2026-03-14T11:07:54.000Z",
+    "transactionHash": "0x1b43d54b29779e7a602a72efed432bcd32fc87720c657fd1c6b92b002594a736",
+    "gridTileId": "12,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 60,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:07:57.000Z",
+    "transactionHash": "0x86b8f021bc55f2f940042dc92fd0f422016bcc72e09e2f8f8777b1c98800f905",
+    "gridTileId": "6,-1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 125,
+    "y": 10,
+    "z": 0,
+    "timestamp": "2026-03-14T11:08:02.000Z",
+    "transactionHash": "0xfec967a0f4578801bb39d6a4de34f8274b7a1ca9e25ebe2af1c498f204fd5879",
+    "gridTileId": "12,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 60,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T11:08:04.000Z",
+    "transactionHash": "0x5fa6d84151fb45bb0eb0060f261c12aba42f9cfd1d0f3d22f57fdec581df9acf",
+    "gridTileId": "6,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 125,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T11:08:10.000Z",
+    "transactionHash": "0xcc665820e20e954864c0366488933908491c6aaa0dc1099760fecbcbbc558b9c",
+    "gridTileId": "12,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T11:08:11.000Z",
+    "transactionHash": "0x0f2d9f49a6aad2f57148848a317d5983bec5a84976502a24c1b402f09bc9b07f",
+    "gridTileId": "5,0"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:08:18.000Z",
+    "transactionHash": "0x881dc6f9803eb1691514a23eb42c01bfe099e5b1e1e17ae31c2fd29b3a13fc7e",
+    "gridTileId": "5,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 130,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T11:08:19.000Z",
+    "transactionHash": "0x849b5d4af87cc65e7bdce3843c3def36035312c868a32ef2760a3c702ec66bb4",
+    "gridTileId": "13,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": 10,
+    "z": 0,
+    "timestamp": "2026-03-14T11:08:26.000Z",
+    "transactionHash": "0xf8f97182f1867cd8fdb197b3336401925d3aece719024925200700337b1d6e4f",
+    "gridTileId": "5,1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 125,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T11:08:27.000Z",
+    "transactionHash": "0x364e58d4ab4d25eb0f96a1556073c9251ff1f3f3e434b966d1a3d93735da571e",
+    "gridTileId": "12,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": 10,
+    "z": 0,
+    "timestamp": "2026-03-14T11:08:33.000Z",
+    "transactionHash": "0xf58a45745e9062aa5faa4042b71d57cd5dae368e025aabebe1381b968c29226b",
+    "gridTileId": "5,1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 125,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T11:08:35.000Z",
+    "transactionHash": "0x6d8bfac3807aa65f52ea36ec630413c603b7fe5722e9e84e714b2f476ad7a3ef",
+    "gridTileId": "12,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": 10,
+    "z": 0,
+    "timestamp": "2026-03-14T11:08:40.000Z",
+    "transactionHash": "0xed71e69c6fcfac34a16223ba92670ab1880b8e83890955f78d9f5c96ed5d9f17",
+    "gridTileId": "4,1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 125,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T11:08:43.000Z",
+    "transactionHash": "0x1a7d0ae40be9f047fa61ffe8d7256748022a5e54c867c510c5d845a61bb47caa",
+    "gridTileId": "12,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": 10,
+    "z": 0,
+    "timestamp": "2026-03-14T11:08:47.000Z",
+    "transactionHash": "0x1bb366c131ef0fd68e1e1252f4c4df84ff73638be92125477a5fa1950d29f2a6",
+    "gridTileId": "5,1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 130,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T11:08:51.000Z",
+    "transactionHash": "0xd562f9ae9e0a2e651caf709dd8ed5bd0e20087c1234ed273bbafa90cc8c77f45",
+    "gridTileId": "13,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": 10,
+    "z": 0,
+    "timestamp": "2026-03-14T11:08:54.000Z",
+    "transactionHash": "0xd085864c1a53fc7a3d5abe36d128fe9f4c885d3b05d60b85e2e2b81fb82cd136",
+    "gridTileId": "4,1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 135,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T11:08:59.000Z",
+    "transactionHash": "0x391b11fa76caff62c80e0ffa82408c0830e7429febc12e6def43efd78151dccb",
+    "gridTileId": "13,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:09:01.000Z",
+    "transactionHash": "0x6f30d79d195333049c0329d5b128e7f7966437d405726d418930ebaea281826a",
+    "gridTileId": "4,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 140,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T11:09:07.000Z",
+    "transactionHash": "0x280f82293a661cfdc2cc0ca59b8bec55dd599b38d0f42f467a225bfc88b793fd",
+    "gridTileId": "14,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T11:09:08.000Z",
+    "transactionHash": "0xcd88602daa4945324462a60324bb35992d9d9b9656e5adf7b3d306ccc254bd63",
+    "gridTileId": "4,0"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T11:09:15.000Z",
+    "transactionHash": "0x44aa689334d6068db357e5ac384a78586f9a33900d977ed7893678b31664c3d6",
+    "gridTileId": "5,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 140,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T11:09:16.000Z",
+    "transactionHash": "0x748bac027f2faa7410c045ef39e8b4d272d44cf2bda88b3db8fa05b68517a502",
+    "gridTileId": "14,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:09:23.000Z",
+    "transactionHash": "0x6b5684d17b621c87d3280a32de1c7e10910bf74aa90b4b67108905729e35a95c",
+    "gridTileId": "5,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 140,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T11:09:24.000Z",
+    "transactionHash": "0xa78626514b3d2d71e1dd7e85271de7e7d82f8c50aae025e06a79d673ee586553",
+    "gridTileId": "14,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": 10,
+    "z": 0,
+    "timestamp": "2026-03-14T11:09:30.000Z",
+    "transactionHash": "0x9fa343cb606abfec8e42b2de31bbaad16ff8995d142d7809f00f50c2ecd36b0e",
+    "gridTileId": "5,1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 140,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T11:09:32.000Z",
+    "transactionHash": "0x42272081c8ba529333ab08a7a36fc10c48637d3545cb765fb07b215626b17247",
+    "gridTileId": "14,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T11:09:37.000Z",
+    "transactionHash": "0xf6145f5cef18bccd7e25b4a4a4ab3e495eb566ae3635f988fd035cc60a0fc231",
+    "gridTileId": "5,1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 140,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T11:09:40.000Z",
+    "transactionHash": "0xf813875badba2765aa9834fc77ac1af475ff7321958d54d7a7a57d2397834f9a",
+    "gridTileId": "14,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T11:09:44.000Z",
+    "transactionHash": "0x9ebdfb41ebe5974aaeb62f45a547649a8ba679427edec67f89839ab11f96067e",
+    "gridTileId": "5,2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 140,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T11:09:48.000Z",
+    "transactionHash": "0xab793129afd4d878d33b631e72c2282fba25af70794731e1dbc6117995925655",
+    "gridTileId": "14,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T11:09:52.000Z",
+    "transactionHash": "0xf43edb5970cf64dd0949e7dc733539d94e3af96e7a039848247470d620f3712b",
+    "gridTileId": "5,2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 140,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T11:09:57.000Z",
+    "transactionHash": "0x29941014acbe1de81e6983342722d6d7213a41199ad8b00029c6008012ba5b93",
+    "gridTileId": "14,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T11:09:58.000Z",
+    "transactionHash": "0x4feec748f6fc1754cafab24a95dd4be6471ce1bb882e2c4235501f24645e61dd",
+    "gridTileId": "5,2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 140,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T11:10:04.000Z",
+    "transactionHash": "0xf0620cf176e3308062848e3bf85bb34265a45deed64283ea2dea122ae85d17a9",
+    "gridTileId": "14,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T11:10:05.000Z",
+    "transactionHash": "0x42478a0d990441c7492feca5c2ecad78e7ed5f6dd858921f711c2cb0ff0482dd",
+    "gridTileId": "4,2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 135,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T11:10:13.000Z",
+    "transactionHash": "0x9e82980da4925b1b415799eb36c55043d6db78254e200da1c2574dc2d8fa7cac",
+    "gridTileId": "13,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T11:10:14.000Z",
+    "transactionHash": "0x614ae655d4e636eb2be6e540276e355fe3887181c0eff6d4d75c8cbe3177378b",
+    "gridTileId": "4,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 40,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T11:10:21.000Z",
+    "transactionHash": "0xcc3619d7b234f3191d9fa12775b7dd7d366c4d716a5d47b351559805809af068",
+    "gridTileId": "4,2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 140,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T11:10:22.000Z",
+    "transactionHash": "0x5961d53759c9b30ab941ea05e74e52c932780b8b784df5945643aedeb46b011c",
+    "gridTileId": "14,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 40,
+    "y": 30,
+    "z": 0,
+    "timestamp": "2026-03-14T11:10:28.000Z",
+    "transactionHash": "0x389d17f1d3519f9781629f3fc1db3e6f6072d6c7722434897b3b2db4902eb448",
+    "gridTileId": "4,3"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 140,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T11:10:30.000Z",
+    "transactionHash": "0xeba99a425682e3d31c8a2979762a9f9cde777f7e8f25f2846d5943fe0581ed22",
+    "gridTileId": "14,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 40,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T11:10:35.000Z",
+    "transactionHash": "0xe24e925df88b031b536533098f3e54053ef59eef08fc6d7cc83d530202e246d1",
+    "gridTileId": "4,2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 135,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T11:10:38.000Z",
+    "transactionHash": "0x04360bbdac55dde341b199c3c4f4081903716c06f101eb24176d58627923c3a2",
+    "gridTileId": "13,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 35,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T11:10:42.000Z",
+    "transactionHash": "0x1525e5025cf2ee56d302347d34a588d085f865593c1bf0051aa21ae8d846aa55",
+    "gridTileId": "3,2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 130,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T11:10:46.000Z",
+    "transactionHash": "0x7ec87d22c21d35ee33041f2f66008be69018a5304c7fc727396509408c522671",
+    "gridTileId": "13,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 35,
+    "y": 30,
+    "z": 0,
+    "timestamp": "2026-03-14T11:10:49.000Z",
+    "transactionHash": "0x13ac1032f675ffb01e221e77200cd8618e4736a769222edd33c345c73a6a9ee6",
+    "gridTileId": "3,3"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 130,
+    "y": 10,
+    "z": 0,
+    "timestamp": "2026-03-14T11:10:54.000Z",
+    "transactionHash": "0xa0d65fe491492e88bce2831b18a633ea9c7548627b4046654bc8959955cc5cca",
+    "gridTileId": "13,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 40,
+    "y": 30,
+    "z": 0,
+    "timestamp": "2026-03-14T11:10:56.000Z",
+    "transactionHash": "0x3a6b405577735097c55484942b391ca07bd3534affc7536ec556477f4011589a",
+    "gridTileId": "4,3"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 130,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:11:02.000Z",
+    "transactionHash": "0x1061c4e6e8e2e6a514827f775f62a6ea9ea87346da4f592137a860dc1c5a5edb",
+    "gridTileId": "13,0"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 35,
+    "y": 30,
+    "z": 0,
+    "timestamp": "2026-03-14T11:11:03.000Z",
+    "transactionHash": "0xac05c5131dcdb0912fe84ddacb8dc5a5981ccad6f1608d06ab08f14ed282be0c",
+    "gridTileId": "3,3"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 135,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:11:10.000Z",
+    "transactionHash": "0xa947761c84dc65db5be0182223eaee492dcb7a20c356f2cc94ce275f0280d706",
+    "gridTileId": "13,0"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 35,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T11:11:11.000Z",
+    "transactionHash": "0x59260a91d93c2daabeb8ff46de44b0095a567d5fa14915aba3ba6a63804b56b4",
+    "gridTileId": "3,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 35,
+    "y": 30,
+    "z": 0,
+    "timestamp": "2026-03-14T11:11:18.000Z",
+    "transactionHash": "0x4135ea8ec7e5b49e4dd29d0f592941b08b5410b8d8027acf3c1131601c995fcc",
+    "gridTileId": "3,3"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 135,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T11:11:19.000Z",
+    "transactionHash": "0x32c3f9fecbd882486be179d1be53b6c5fc48eacd027121b80055d2e77bc1c3c8",
+    "gridTileId": "13,0"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 40,
+    "y": 30,
+    "z": 0,
+    "timestamp": "2026-03-14T11:11:25.000Z",
+    "transactionHash": "0x62a0713e2e45221034687a4f00c59741ed9c21ff802f166da5f7b931d37019ab",
+    "gridTileId": "4,3"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 135,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:11:27.000Z",
+    "transactionHash": "0x2d077008381f9d47935095f17333646bc901cba30d40fb58a52b246014a0f3a1",
+    "gridTileId": "13,-1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 40,
+    "y": 35,
+    "z": 0,
+    "timestamp": "2026-03-14T11:11:32.000Z",
+    "transactionHash": "0x32c997991017c75e5049c92a7aab383a559f86731732cf9f2c313b3d007766b4",
+    "gridTileId": "4,3"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 135,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T11:11:35.000Z",
+    "transactionHash": "0x986e71354382d4bd785d6564ad8030639899973fa2d5fb092b402232930e7b32",
+    "gridTileId": "13,-1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 35,
+    "y": 35,
+    "z": 0,
+    "timestamp": "2026-03-14T11:11:39.000Z",
+    "transactionHash": "0xe615d208492d37407b3d835c4969ba57f2e5b9094983778e793472f1377b88e6",
+    "gridTileId": "3,3"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 130,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T11:11:43.000Z",
+    "transactionHash": "0x6116df6ad29c3a4ef4536a240e7e60c5a7c004d4c551c70bee8074bf7f4f821c",
+    "gridTileId": "13,-1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 35,
+    "y": 40,
+    "z": 0,
+    "timestamp": "2026-03-14T11:11:46.000Z",
+    "transactionHash": "0x042434edf2020db82c242cae009479e21070257862711c4df872bc4a53b6add0",
+    "gridTileId": "3,4"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 125,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T11:11:51.000Z",
+    "transactionHash": "0x3e1a21aa75af92c34422a0c4e64d598413f32669a7705bd4e1e652329e522d7f",
+    "gridTileId": "12,-1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 40,
+    "y": 40,
+    "z": 0,
+    "timestamp": "2026-03-14T11:11:53.000Z",
+    "transactionHash": "0x7b7bc9918d7554e418d3f0591758a70321975b11128aa987fef33e13d0b203fe",
+    "gridTileId": "4,4"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 130,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T11:11:59.000Z",
+    "transactionHash": "0x4dedb167a162a817e33416631b8ee7af6157d44fd27c8352a09bef4a03a6e489",
+    "gridTileId": "13,-1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": 40,
+    "z": 0,
+    "timestamp": "2026-03-14T11:12:00.000Z",
+    "transactionHash": "0x65a7885c382895cad734c0c5a3b389816a72393d164ea230b8d7b5cc0f838703",
+    "gridTileId": "4,4"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 135,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T11:12:07.000Z",
+    "transactionHash": "0x0f56c65eff41d1ffcabde5ed98b4dd42a5734ca900b7b6bbaa8307acff5aed51",
+    "gridTileId": "13,-1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": 45,
+    "z": 0,
+    "timestamp": "2026-03-14T11:12:08.000Z",
+    "transactionHash": "0x878a90f9d7c766d32563973ded459c2245101974222e573c2bb385a74e152036",
+    "gridTileId": "4,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": 40,
+    "z": 0,
+    "timestamp": "2026-03-14T11:12:15.000Z",
+    "transactionHash": "0x0752b664f7e167b776d73bb74fe5aae35e52449bd3fea5b263755b64d927e9e9",
+    "gridTileId": "4,4"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 140,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T11:12:16.000Z",
+    "transactionHash": "0xd1f86c8703ed0292178f2144889eaa37cb5d94acc129f926a417bb12c0c5cc69",
+    "gridTileId": "14,-1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": 35,
+    "z": 0,
+    "timestamp": "2026-03-14T11:12:22.000Z",
+    "transactionHash": "0x1d543cdc4daef4fccc9870744e896c6ba57482361f4b9d249aeca38c5ae21c84",
+    "gridTileId": "4,3"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 140,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:12:24.000Z",
+    "transactionHash": "0x610df5ae7d55fc94b14dff9773431f7ea2d526dbf1443971281edd6575a501b7",
+    "gridTileId": "14,-1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": 30,
+    "z": 0,
+    "timestamp": "2026-03-14T11:12:29.000Z",
+    "transactionHash": "0x597b69228820b4b0352dd7b126ed2c4301181da6b13da297633343e844044c66",
+    "gridTileId": "4,3"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 135,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:12:32.000Z",
+    "transactionHash": "0xec802d035371d241be9e5ff80bda6bc34c19f643857daec21a3a3a3c918c9acb",
+    "gridTileId": "13,-1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 40,
+    "y": 30,
+    "z": 0,
+    "timestamp": "2026-03-14T11:12:36.000Z",
+    "transactionHash": "0xcea0118ec491b616a8c462fb93ffbe29040ca47d52f115964adf2254cf63fd62",
+    "gridTileId": "4,3"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 130,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:12:40.000Z",
+    "transactionHash": "0x6c7e629a9a6c489d99a3b88b36a7d759d325cfd6d64362da2cbad845539672d5",
+    "gridTileId": "13,-1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 40,
+    "y": 35,
+    "z": 0,
+    "timestamp": "2026-03-14T11:12:43.000Z",
+    "transactionHash": "0x72f9cb29ce720f3e6cea3ca0f43189137621a22aa767dc9b8e3202fa1b95eed1",
+    "gridTileId": "4,3"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 135,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:12:48.000Z",
+    "transactionHash": "0x8a5e4a8cb3187c9edd5139e1b7145f4a7e3c45555766b9113087d5edd64fe2bc",
+    "gridTileId": "13,-1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": 35,
+    "z": 0,
+    "timestamp": "2026-03-14T11:12:50.000Z",
+    "transactionHash": "0x3ed2a6186ca6337c84c1fb2b1ebcf0dea54d7953c9380dc013d06e267c315bad",
+    "gridTileId": "4,3"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 135,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T11:12:56.000Z",
+    "transactionHash": "0x8fc979722ea35563a1ff2f508a6e6d2e5c74f6bc036568cb273d12b0e9eb5bd0",
+    "gridTileId": "13,0"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": 40,
+    "z": 0,
+    "timestamp": "2026-03-14T11:12:57.000Z",
+    "transactionHash": "0x7875caa808dd0fcd8fd46a224d25ee01f4e7e656697db146d593c90b1486baee",
+    "gridTileId": "4,4"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 135,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:13:04.000Z",
+    "transactionHash": "0x953a1dedba678dc3e7adff1f66e44b170b0bcafa0c779566f3f5a19cc746cd34",
+    "gridTileId": "13,-1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": 35,
+    "z": 0,
+    "timestamp": "2026-03-14T11:13:05.000Z",
+    "transactionHash": "0xdca9925bf989821ece5198713cd5621286693fdeec5c24404d1f8ec3a4228960",
+    "gridTileId": "4,3"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": 35,
+    "z": 0,
+    "timestamp": "2026-03-14T11:13:05.000Z",
+    "transactionHash": "0xdca9925bf989821ece5198713cd5621286693fdeec5c24404d1f8ec3a4228960",
+    "gridTileId": "4,3"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": 35,
+    "z": 0,
+    "timestamp": "2026-03-14T11:13:12.000Z",
+    "transactionHash": "0xa42f221733f81e25209ddc3a546381dfb03670e5f226074ac105b209b826fd21",
+    "gridTileId": "5,3"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 140,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:13:13.000Z",
+    "transactionHash": "0x83d37b7039af2aea5a28275e89ecfe7a7ee6290668dce331607beba80b0db632",
+    "gridTileId": "14,-1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": 35,
+    "z": 0,
+    "timestamp": "2026-03-14T11:13:19.000Z",
+    "transactionHash": "0xf5e5277bbe2e904d14d6823cefbc5193d1962e534cac156d34bad9a55b1a2660",
+    "gridTileId": "5,3"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 140,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T11:13:21.000Z",
+    "transactionHash": "0x4fc0e06fc36c1a615a1cb720cc19df3536b05a687ead6d248157d67f4f906aa5",
+    "gridTileId": "14,0"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": 40,
+    "z": 0,
+    "timestamp": "2026-03-14T11:13:26.000Z",
+    "transactionHash": "0x2f3c2890f6d0a01de1bcd533f38f6c138d8e0e25ead9ecc503d664b410c9ec7d",
+    "gridTileId": "5,4"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 145,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T11:13:29.000Z",
+    "transactionHash": "0xf84b2f743819910b661a94f05e7257dc5e9d5dc32dd240feec6d7492ab2794a3",
+    "gridTileId": "14,0"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": 40,
+    "z": 0,
+    "timestamp": "2026-03-14T11:13:33.000Z",
+    "transactionHash": "0xd7568e97f681b59f01187ac7cb0e969eec6e6ba85b47a19888fc9090a182d377",
+    "gridTileId": "5,4"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 145,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:13:37.000Z",
+    "transactionHash": "0x305ffa818385a99d48db7186ccc315b0e6d12c52c22dce0e628d3daae4c2eea8",
+    "gridTileId": "14,-1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": 35,
+    "z": 0,
+    "timestamp": "2026-03-14T11:13:40.000Z",
+    "transactionHash": "0x8cb5b585262c51bd75b7205d65e670d975598f3bb141e46b3795920d98ee312b",
+    "gridTileId": "5,3"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 140,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:13:45.000Z",
+    "transactionHash": "0x3f54971ae3e24ee8e12eb1f0dd52f2861f1cdbdd3cf50875bd0276a795cc4eb4",
+    "gridTileId": "14,-1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": 40,
+    "z": 0,
+    "timestamp": "2026-03-14T11:13:47.000Z",
+    "transactionHash": "0xac984b45e15850cfba4944c1325b1166b1d08834f5f64c08489b8709f420ff45",
+    "gridTileId": "5,4"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 135,
+    "y": -5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:13:53.000Z",
+    "transactionHash": "0xccd2349d5d7885c2e1985a87daaa7fa67323f5032750a7737a31ded9290d37c4",
+    "gridTileId": "13,-1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": 45,
+    "z": 0,
+    "timestamp": "2026-03-14T11:13:54.000Z",
+    "transactionHash": "0x96f9a4a1ff2ac20ec4e68d1e37b007afb1655b3110abb4d684bd7579f6d62acd",
+    "gridTileId": "5,4"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 135,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T11:14:01.000Z",
+    "transactionHash": "0x9e6afb65f0e8b4cc7cf90e423ff6845a4ebad67211de6eba772a45da68530964",
+    "gridTileId": "13,-1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": 45,
+    "z": 0,
+    "timestamp": "2026-03-14T11:14:02.000Z",
+    "transactionHash": "0x6e32a72df9dda74ab5069adea2fb7c02bc6c8931dbcf9f29549b23acca8d59c1",
+    "gridTileId": "4,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": 45,
+    "z": 0,
+    "timestamp": "2026-03-14T11:14:09.000Z",
+    "transactionHash": "0xd470e0196fec4f04da851198d0ea0ac9879b46d75854ef67ea0edc0916e4b18e",
+    "gridTileId": "5,4"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 130,
+    "y": -10,
+    "z": 0,
+    "timestamp": "2026-03-14T11:14:10.000Z",
+    "transactionHash": "0xfef756f262a88c2f0cefd745f097336f793b1d18d07ec9f1ffbfd9e0624cdc17",
+    "gridTileId": "13,-1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": 40,
+    "z": 0,
+    "timestamp": "2026-03-14T11:14:16.000Z",
+    "transactionHash": "0xfe0a5872e87c17384622b127ed2750442d07b2c813147006a848841b3d6f6b86",
+    "gridTileId": "5,4"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 130,
+    "y": -15,
+    "z": 0,
+    "timestamp": "2026-03-14T11:14:18.000Z",
+    "transactionHash": "0xa8f1cb993afabeb95c0cff024d22df0c772c65effb4b68a226f70432f5dbb566",
+    "gridTileId": "13,-2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": 45,
+    "z": 0,
+    "timestamp": "2026-03-14T11:14:23.000Z",
+    "transactionHash": "0x21ef1a508dac970d36de4fb3fe13addede9a9d6e6acbda496423594c5e8a28db",
+    "gridTileId": "5,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": 45,
+    "z": 0,
+    "timestamp": "2026-03-14T11:14:30.000Z",
+    "transactionHash": "0xa3579c94fcbd3ebc408afa2b7673bb5e39e73aef392cb13fcff380cde942d3e6",
+    "gridTileId": "4,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:14:37.000Z",
+    "transactionHash": "0x12d42d6e094f0a9d9644b3ad6a10d73cb33c1657b8c39e25a81230cd7f355fa9",
+    "gridTileId": "4,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": 55,
+    "z": 0,
+    "timestamp": "2026-03-14T11:14:44.000Z",
+    "transactionHash": "0x5466a379df0bb285208a55ff2c3bd5dd6d7244e823964b3ad6e7d36684222142",
+    "gridTileId": "4,5"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 45,
+    "y": 55,
+    "z": 0,
+    "timestamp": "2026-03-14T11:14:45.000Z",
+    "transactionHash": "0x4957babb91221f5d6d39f1f062a4933af0fcee25fcf21288efa693ce4459b0e0",
+    "gridTileId": "4,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": 55,
+    "z": 0,
+    "timestamp": "2026-03-14T11:14:51.000Z",
+    "transactionHash": "0xf82ba739707d2be41e9aea58a0e9a2a7d6715f2189001acfcdab5daa32d08e74",
+    "gridTileId": "5,5"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 45,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:14:53.000Z",
+    "transactionHash": "0xcb55986afa742a912831691e50dc07d8c9fed9f9cadf4800d7efb6c72d551ab0",
+    "gridTileId": "4,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": 55,
+    "z": 0,
+    "timestamp": "2026-03-14T11:14:58.000Z",
+    "transactionHash": "0x7a3f54eab70ee1d307370e0881af3c3070a96b5d5f8835da98f6119b9aefed5e",
+    "gridTileId": "5,5"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 45,
+    "y": 45,
+    "z": 0,
+    "timestamp": "2026-03-14T11:15:01.000Z",
+    "transactionHash": "0x300e0ced89e8f8baec49b9e8377d0d9b1e1988ce844f05e348908f8212cbae7b",
+    "gridTileId": "4,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 60,
+    "y": 55,
+    "z": 0,
+    "timestamp": "2026-03-14T11:15:05.000Z",
+    "transactionHash": "0xdb528bb899b30f83704df4fb5f7e5c0c3589ce7f77e5deae4c4580bad02e9084",
+    "gridTileId": "6,5"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 50,
+    "y": 45,
+    "z": 0,
+    "timestamp": "2026-03-14T11:15:09.000Z",
+    "transactionHash": "0xaebb883f48b5538c929e09abc48ebd2033b18ff9e7ebdb563905cdc1f80fba7a",
+    "gridTileId": "5,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 60,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:15:12.000Z",
+    "transactionHash": "0x4cae923e0a6d34c1b9c684e9f22a02055d4908946700198ae2eeeb50b4bf5b1a",
+    "gridTileId": "6,5"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 50,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:15:17.000Z",
+    "transactionHash": "0x7c386b87bdb3e6ee04fe69655ffb5de0ba054eba9bc67be8652b3b5732f1dfe1",
+    "gridTileId": "5,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:15:19.000Z",
+    "transactionHash": "0x43b64647befd9e4e8de0e113f6be1b4d21bcab94d8ada3d7b67ad485bc6429c2",
+    "gridTileId": "5,5"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 45,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:15:26.000Z",
+    "transactionHash": "0x7fa8587f3738f107159f2d26f041ae62eb89e5afa012cfeaf37d9aca98d751ad",
+    "gridTileId": "4,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": 55,
+    "z": 0,
+    "timestamp": "2026-03-14T11:15:27.000Z",
+    "transactionHash": "0x6a3573f7665cc6bdd03e8405644eb107c2bdbc06526031cf0766dda5b105c751",
+    "gridTileId": "5,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 60,
+    "y": 55,
+    "z": 0,
+    "timestamp": "2026-03-14T11:15:34.000Z",
+    "transactionHash": "0x0ad6dc193bc57b3fc3e058a54740cc22ef6b2d3d180b825e89ca276f7c080125",
+    "gridTileId": "6,5"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 45,
+    "y": 45,
+    "z": 0,
+    "timestamp": "2026-03-14T11:15:35.000Z",
+    "transactionHash": "0x6f332e7e820b0da0669715731efca4dd17cd5838613201aaceca0bcf446e31dd",
+    "gridTileId": "4,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 65,
+    "y": 55,
+    "z": 0,
+    "timestamp": "2026-03-14T11:15:42.000Z",
+    "transactionHash": "0x68392d105dd809f7bf5ab5d519d1db04d2fb38a485ccbd5dd146a15a4c920669",
+    "gridTileId": "6,5"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 45,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:15:43.000Z",
+    "transactionHash": "0x5ee09b5bdd5aa610d85e38b7d83fc7d390aa7c81c09f71215be05bb53c255a64",
+    "gridTileId": "4,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 65,
+    "y": 60,
+    "z": 0,
+    "timestamp": "2026-03-14T11:15:49.000Z",
+    "transactionHash": "0x47a911846f6034d8adf0ff4011c635540a72d0740e409145d42dfb0e0233b0b6",
+    "gridTileId": "6,6"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 45,
+    "y": 45,
+    "z": 0,
+    "timestamp": "2026-03-14T11:15:51.000Z",
+    "transactionHash": "0x97e99a5ab3818c2d43473271c732a36a4c8a13963f728efa20e5c2bbd0b8e620",
+    "gridTileId": "4,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 60,
+    "y": 60,
+    "z": 0,
+    "timestamp": "2026-03-14T11:15:56.000Z",
+    "transactionHash": "0xaaf1dd04f8484337a6ebba45272ae3efb1b012dd26e8a5d36674e2f04cbafc05",
+    "gridTileId": "6,6"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 45,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:16:00.000Z",
+    "transactionHash": "0xe8bc7aa4855339970f204f2c2fb42c1a9c62a012d36f437918a7e680b13ca2c6",
+    "gridTileId": "4,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": 60,
+    "z": 0,
+    "timestamp": "2026-03-14T11:16:03.000Z",
+    "transactionHash": "0xef9774ea28233c90287b7fdddff808ad70bd73c29e01b9639273d85cb0926957",
+    "gridTileId": "5,6"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 45,
+    "y": 55,
+    "z": 0,
+    "timestamp": "2026-03-14T11:16:08.000Z",
+    "transactionHash": "0x700ecbf4d10be806d2e223e92694b310947dc923e526a2b04b053fbaaa0c9be3",
+    "gridTileId": "4,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": 55,
+    "z": 0,
+    "timestamp": "2026-03-14T11:16:10.000Z",
+    "transactionHash": "0xea79401707461ab116ae9cd203cab2718c04cf5163f6af436eb0be68c26c14c6",
+    "gridTileId": "5,5"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 45,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:16:16.000Z",
+    "transactionHash": "0xd43ee41f40dd6749209846207d6fbca23502dff9801951c32b75451ba2303e4e",
+    "gridTileId": "4,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": 60,
+    "z": 0,
+    "timestamp": "2026-03-14T11:16:17.000Z",
+    "transactionHash": "0xb4ca4ef902ebcbddcf327e8b49343194851e83049727d184fb4da498f921ed23",
+    "gridTileId": "5,6"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 45,
+    "y": 55,
+    "z": 0,
+    "timestamp": "2026-03-14T11:16:24.000Z",
+    "transactionHash": "0x54230c7c2d94968b9ab58d2ad27ddebdd2668bf2f6e9af17aac6a8e67224118f",
+    "gridTileId": "4,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 60,
+    "y": 60,
+    "z": 0,
+    "timestamp": "2026-03-14T11:16:25.000Z",
+    "transactionHash": "0x41723bc64a826dc33a41e2d1d61067ace44467073084bdc12be399bb4856db23",
+    "gridTileId": "6,6"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 60,
+    "y": 55,
+    "z": 0,
+    "timestamp": "2026-03-14T11:16:32.000Z",
+    "transactionHash": "0x091337dc8dc03093b2f27bbceb212e14b7e980ba545ba5d51500dc701c9cdf5b",
+    "gridTileId": "6,5"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 40,
+    "y": 55,
+    "z": 0,
+    "timestamp": "2026-03-14T11:16:33.000Z",
+    "transactionHash": "0xdf0cd48e30153c1e0513ba65f70fd33a9617a04000b91da4e1f2739f454e31c2",
+    "gridTileId": "4,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": 55,
+    "z": 0,
+    "timestamp": "2026-03-14T11:16:39.000Z",
+    "transactionHash": "0x4f778d6d185f43817e8c2d08cac986f0487d83ce55dbaeef54dc2fdc7281119b",
+    "gridTileId": "5,5"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 40,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:16:41.000Z",
+    "transactionHash": "0xafda4ff47ac02b8f871609a4ca9c4cdfd1b764517462ee1d79553ea8537000d8",
+    "gridTileId": "4,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 60,
+    "y": 55,
+    "z": 0,
+    "timestamp": "2026-03-14T11:16:46.000Z",
+    "transactionHash": "0xc8d5ba638d66dbe4af8ff64a32daa475a8b7de1e7d234eff227695dc7e9e7c09",
+    "gridTileId": "6,5"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 45,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:16:49.000Z",
+    "transactionHash": "0x7ef7bd49742e5495ffd3ab7dbb6cd6ecc3c4bf79a61be2614817fa87a62d8bdb",
+    "gridTileId": "4,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 60,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:16:53.000Z",
+    "transactionHash": "0x4b9786231d55e5d5660af7ee8c69d1117f2c3a9db0bd15158a3a5827a01661bd",
+    "gridTileId": "6,5"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 40,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:16:57.000Z",
+    "transactionHash": "0x9ff3885cdeaeaa98b235b1c2f7e292b1a6c9062e13c10e0e4bfef6bb8c633a3b",
+    "gridTileId": "4,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 60,
+    "y": 55,
+    "z": 0,
+    "timestamp": "2026-03-14T11:17:00.000Z",
+    "transactionHash": "0x7386bacc082aedede82494ea326b8afac911e25c927cd760f82ecf6f4091ea25",
+    "gridTileId": "6,5"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 45,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:17:05.000Z",
+    "transactionHash": "0xf22eb91d249451bda42fcf025cda12466cad6570f495c25e6fcc081a7aef5de1",
+    "gridTileId": "4,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": 55,
+    "z": 0,
+    "timestamp": "2026-03-14T11:17:07.000Z",
+    "transactionHash": "0x2f35555fed31c12602f7d5eda419bb5d12a4f4c0a2e4a59fefd590e597b0551f",
+    "gridTileId": "5,5"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 50,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:17:13.000Z",
+    "transactionHash": "0x4565a02885b8fdad5989a8d4cbb959958ff26fca420c45ad3146aff18a06a5e4",
+    "gridTileId": "5,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": 55,
+    "z": 0,
+    "timestamp": "2026-03-14T11:17:14.000Z",
+    "transactionHash": "0x8f9ea068e3e9ec929e22792cf73bdac4f1790e32d22d3d1d124eb0a2d69d3c79",
+    "gridTileId": "5,5"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 45,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:17:21.000Z",
+    "transactionHash": "0x3433bd84e003a05d74e1d7245ff41dca75af313a76887cd4ea71fc7ec5d6fa0f",
+    "gridTileId": "4,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": 55,
+    "z": 0,
+    "timestamp": "2026-03-14T11:17:22.000Z",
+    "transactionHash": "0x969298db9f57971ec4eb8c89b9c944a7dfef8b6b005a62015288da781e2705a6",
+    "gridTileId": "5,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 60,
+    "y": 55,
+    "z": 0,
+    "timestamp": "2026-03-14T11:17:29.000Z",
+    "transactionHash": "0x9b7de5c0748a132822575f638abfa775aa9b7f01d93e945618a39bc0a9142b65",
+    "gridTileId": "6,5"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 40,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:17:30.000Z",
+    "transactionHash": "0x282a676243c218dff3cbc7f25633f87d7d45a805101a4fd6c52d9f0a6aa72804",
+    "gridTileId": "4,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 60,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:17:36.000Z",
+    "transactionHash": "0x235d5987105d7c7ba0e3ce151f74e94e6aa38db7798d2e1cfb5839161d016730",
+    "gridTileId": "6,5"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 40,
+    "y": 55,
+    "z": 0,
+    "timestamp": "2026-03-14T11:17:38.000Z",
+    "transactionHash": "0xd29387d671bdd33efe31296913d9aeb49d2bdbcefb013578aaef13f967e19e30",
+    "gridTileId": "4,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:17:43.000Z",
+    "transactionHash": "0x09bfb6d31e2272b4ea84ed4fda22b04d9c3a5df261e7dde52b42cfa7dd3cae4b",
+    "gridTileId": "5,5"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 40,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:17:46.000Z",
+    "transactionHash": "0x327ffe44678e6f3946aa52646d128de064cfedc6266ac9379bde26e53ee6a60d",
+    "gridTileId": "4,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:17:50.000Z",
+    "transactionHash": "0x78c3c7937302e95663e88dbe710a9fc9e6e5bdc48468ac3ab9875bcb20407d88",
+    "gridTileId": "5,5"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 35,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:17:54.000Z",
+    "transactionHash": "0x8bfb46ad71f61ba5ca01f8eee1d1a4bc09159069b526dbcc510a3b09460f8447",
+    "gridTileId": "3,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:17:57.000Z",
+    "transactionHash": "0x482c67a1371100cdf9fb2b40905796b6a031e8eb43c6b57aca78971b3a289615",
+    "gridTileId": "5,5"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 35,
+    "y": 55,
+    "z": 0,
+    "timestamp": "2026-03-14T11:18:02.000Z",
+    "transactionHash": "0xa0b67f838a5cdefc8ee8a9691c1bf125aff1ccaad7a89316460a2a96204676df",
+    "gridTileId": "3,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": 45,
+    "z": 0,
+    "timestamp": "2026-03-14T11:18:04.000Z",
+    "transactionHash": "0xdc3bfd3b7b0746872bfba242bfe3f2833820c474ad2cda6342d542517d0ee665",
+    "gridTileId": "5,4"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 35,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:18:10.000Z",
+    "transactionHash": "0x118a978938ca4183b41fc8223f5af83f2f2a17d0f8fc7fa2e18f02472d1a75a4",
+    "gridTileId": "3,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": 40,
+    "z": 0,
+    "timestamp": "2026-03-14T11:18:11.000Z",
+    "transactionHash": "0x375d090a0078e29af0b03e9a80f34511a4840c93aca29b5dd5f69eac16daf2b4",
+    "gridTileId": "5,4"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 35,
+    "y": 45,
+    "z": 0,
+    "timestamp": "2026-03-14T11:18:18.000Z",
+    "transactionHash": "0xebea4a9a54f718357b3dec270605227204af7196dbe4fbb3dedc54d1f279db74",
+    "gridTileId": "3,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": 35,
+    "z": 0,
+    "timestamp": "2026-03-14T11:18:19.000Z",
+    "transactionHash": "0x06636673f18df40664ea28222a1d4a8669354f4cb3aa32959e3089b63b24a14c",
+    "gridTileId": "5,3"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 60,
+    "y": 35,
+    "z": 0,
+    "timestamp": "2026-03-14T11:18:26.000Z",
+    "transactionHash": "0x8f791c87d5dc8e43257cce145a8b9bb3d419e711ec3173be20f05cc0750f127b",
+    "gridTileId": "6,3"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 30,
+    "y": 45,
+    "z": 0,
+    "timestamp": "2026-03-14T11:18:27.000Z",
+    "transactionHash": "0x20f8725671cb0663904f9c53573ef082be5468cf2cbad7d684909507b78c1d74",
+    "gridTileId": "3,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": 35,
+    "z": 0,
+    "timestamp": "2026-03-14T11:18:33.000Z",
+    "transactionHash": "0xea16582e2ee558817e67b4cc4bea1c90e059393f16779f9b0f92269cd35cdd6a",
+    "gridTileId": "5,3"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 35,
+    "y": 45,
+    "z": 0,
+    "timestamp": "2026-03-14T11:18:35.000Z",
+    "transactionHash": "0x646e3177b9b0f772cd0d74e02e4820461887c6f941df714b41a8ad119ea46263",
+    "gridTileId": "3,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": 30,
+    "z": 0,
+    "timestamp": "2026-03-14T11:18:40.000Z",
+    "transactionHash": "0xe27d2649b42ead6309449355d02c6b362a8a7dfbf080d6c6b455374ab3f2a678",
+    "gridTileId": "5,3"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 35,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:18:43.000Z",
+    "transactionHash": "0xe93b7946cf655f7636f57555760e6273335c5ed6678fc27156c1c6923254b65c",
+    "gridTileId": "3,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 60,
+    "y": 30,
+    "z": 0,
+    "timestamp": "2026-03-14T11:18:47.000Z",
+    "transactionHash": "0x3adca85c67618fc758a865025fdc112c36fe5adeb0fbc012a79035d387c1ca37",
+    "gridTileId": "6,3"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 40,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:18:51.000Z",
+    "transactionHash": "0xea0436116a0acd3fa250dd0a7589dee52d17d2ce5f14e5841a285b02fbefe5ca",
+    "gridTileId": "4,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": 30,
+    "z": 0,
+    "timestamp": "2026-03-14T11:18:54.000Z",
+    "transactionHash": "0xdc219aca0a65691115df537dfcf145bb27c97cc1023ffaf879b9bb6fc8ae66a6",
+    "gridTileId": "5,3"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 45,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:18:59.000Z",
+    "transactionHash": "0x263ef7e366f52355de4115d5cc1559e5b40894a346f99e1a81325589ca650352",
+    "gridTileId": "4,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 60,
+    "y": 30,
+    "z": 0,
+    "timestamp": "2026-03-14T11:19:01.000Z",
+    "transactionHash": "0xd9d530a0c876ba188093e1268d92a855aef1a1549ea384498a73202f47f476ad",
+    "gridTileId": "6,3"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 45,
+    "y": 55,
+    "z": 0,
+    "timestamp": "2026-03-14T11:19:07.000Z",
+    "transactionHash": "0x6c5346d29b80af83ed95f12bcd5b6bd7ea40e3335e630540a56f279dbe1f59ac",
+    "gridTileId": "4,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": 30,
+    "z": 0,
+    "timestamp": "2026-03-14T11:19:08.000Z",
+    "transactionHash": "0xb59b164c320b342e53d668d35901a3bf725ca51351415c2fd86e8544b0699c14",
+    "gridTileId": "5,3"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 45,
+    "y": 60,
+    "z": 0,
+    "timestamp": "2026-03-14T11:19:15.000Z",
+    "transactionHash": "0xf1488d1fad226d9dc91342c36f87dbf15b2c5617f679b746ffe418ab006f213d",
+    "gridTileId": "4,6"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 55,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T11:19:16.000Z",
+    "transactionHash": "0x236a17770822e2c5714c7829f23e89d2ac1d080162effd208f33c1ee9f53ceb8",
+    "gridTileId": "5,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T11:19:23.000Z",
+    "transactionHash": "0x303288e6e5edc9a6232926e0e3888d00b233bc81620635befb3de528d40706c7",
+    "gridTileId": "5,2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 50,
+    "y": 60,
+    "z": 0,
+    "timestamp": "2026-03-14T11:19:24.000Z",
+    "transactionHash": "0x3b1291725a7d8d9ac1117c8ff29c146787949c23f4fa179816a3250134b5276a",
+    "gridTileId": "5,6"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T11:19:30.000Z",
+    "transactionHash": "0xd3c583e9e7f263d463178d42e5d3f5ad2f8ff836ad8b1d23bdf17ba69ae393f6",
+    "gridTileId": "4,2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 55,
+    "y": 60,
+    "z": 0,
+    "timestamp": "2026-03-14T11:19:32.000Z",
+    "transactionHash": "0xa8e6fe976a2789e59fd74b055e7d1698d75a5fcf1f3dd2d81977e069a884e71e",
+    "gridTileId": "5,6"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T11:19:37.000Z",
+    "transactionHash": "0xe8632106265588dd9c7288e8ec7dd8683ba80bd78c4870b4b59d202d02ef92e3",
+    "gridTileId": "4,2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 50,
+    "y": 60,
+    "z": 0,
+    "timestamp": "2026-03-14T11:19:40.000Z",
+    "transactionHash": "0x4ede6a4bcc0bd2c24475670582c2ed469e995697b2cc8903b2c5cc9d86cb9578",
+    "gridTileId": "5,6"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 40,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T11:19:44.000Z",
+    "transactionHash": "0xc167cb2d60c618a1c0cba8439a6dcf2b51281c58260067f71d9391d54cd41798",
+    "gridTileId": "4,2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 45,
+    "y": 60,
+    "z": 0,
+    "timestamp": "2026-03-14T11:19:48.000Z",
+    "transactionHash": "0xd9d6add2cb2d8e36bf3d3545f203b82d5db58c3d24d825ff9f3695c39580b751",
+    "gridTileId": "4,6"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 35,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T11:19:51.000Z",
+    "transactionHash": "0x4add65a9f0b924b3c25fa38782f56d5235191ce76d543ec595f8ebd2b41f6054",
+    "gridTileId": "3,2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 45,
+    "y": 65,
+    "z": 0,
+    "timestamp": "2026-03-14T11:19:56.000Z",
+    "transactionHash": "0x4b1e0f19e8ff7cddec9b3411976ddb3ecc23c8b9bbce4f601c3652928b8279b6",
+    "gridTileId": "4,6"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 30,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T11:19:58.000Z",
+    "transactionHash": "0x8d397d916e9c2ccbec3fcd284078a6bc69837776fda627be2792843dfd660907",
+    "gridTileId": "3,2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 45,
+    "y": 70,
+    "z": 0,
+    "timestamp": "2026-03-14T11:20:04.000Z",
+    "transactionHash": "0x7133f7859edeadc8eb142aac2fa0d80ff4087ea6ef176e5122c7c7b87efbd331",
+    "gridTileId": "4,7"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 30,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T11:20:05.000Z",
+    "transactionHash": "0xcfe5f71ecad5ec6b1ff6cecd7b62e76d389b360acee5516c7da8958e81171890",
+    "gridTileId": "3,1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 40,
+    "y": 70,
+    "z": 0,
+    "timestamp": "2026-03-14T11:20:12.000Z",
+    "transactionHash": "0x15411c97595c42ce10bfc0dbccdebe233fa136df5588d54c52c554fa5361eac4",
+    "gridTileId": "4,7"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 35,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T11:20:13.000Z",
+    "transactionHash": "0x8c5797b8974867cf20340e283d32a1f7910b3b9bce9a70e14d2f3a6d6dd0b469",
+    "gridTileId": "3,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 35,
+    "y": 10,
+    "z": 0,
+    "timestamp": "2026-03-14T11:20:20.000Z",
+    "transactionHash": "0x3de94ac673d1b6d166e0f5996bb72d864140ea148a9474d8f9df027e0bf9ed18",
+    "gridTileId": "3,1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 40,
+    "y": 75,
+    "z": 0,
+    "timestamp": "2026-03-14T11:20:21.000Z",
+    "transactionHash": "0x74e17152cdd543a38f59fa70e92fa45cf11cad188042e5551a387276ab80799a",
+    "gridTileId": "4,7"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 35,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:20:27.000Z",
+    "transactionHash": "0x146cc27f50e73c267672f328988482641e4905b376fa0dd1fc232b66dd5c6a92",
+    "gridTileId": "3,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 45,
+    "y": 75,
+    "z": 0,
+    "timestamp": "2026-03-14T11:20:29.000Z",
+    "transactionHash": "0xfdd3a6022e1b9e47a91a3e8248058a9b9d80a78645557f5215b276b5973bfc3a",
+    "gridTileId": "4,7"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 30,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:20:34.000Z",
+    "transactionHash": "0xa008d47b9856c7262cfb549aa118640dd0db777b1de4cf79cebf84292f35c877",
+    "gridTileId": "3,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 45,
+    "y": 80,
+    "z": 0,
+    "timestamp": "2026-03-14T11:20:37.000Z",
+    "transactionHash": "0x7bdc7a2a671bfc274a9599977db4d5de5e9ceca640c0429635e7e5a48aeb7d1f",
+    "gridTileId": "4,8"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 30,
+    "y": 0,
+    "z": 0,
+    "timestamp": "2026-03-14T11:20:41.000Z",
+    "transactionHash": "0x1c5a1d3d8e29a909fa3ea103c0d7d651f5e239ff8ae893eb317c6f0671b1cff2",
+    "gridTileId": "3,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 50,
+    "y": 80,
+    "z": 0,
+    "timestamp": "2026-03-14T11:20:45.000Z",
+    "transactionHash": "0x249ead1e8d85d9d65f39e3dd742a7e612f93822c7a0d320f2dea6d9dd0433e46",
+    "gridTileId": "5,8"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 30,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:20:48.000Z",
+    "transactionHash": "0x8021d12f0a3e035d9fcdd9f867b87d451a1914f146ac335d9124cb8871d8361b",
+    "gridTileId": "3,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 55,
+    "y": 80,
+    "z": 0,
+    "timestamp": "2026-03-14T11:20:53.000Z",
+    "transactionHash": "0x65e40d05d93a7ea498d59d633b88c89ccb79806d746903797e167a2350557c6d",
+    "gridTileId": "5,8"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 30,
+    "y": 10,
+    "z": 0,
+    "timestamp": "2026-03-14T11:20:55.000Z",
+    "transactionHash": "0x5c13138c02d04757fceff7f00680b92b880b6cd4809c368ad179fc17fafe4520",
+    "gridTileId": "3,1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 55,
+    "y": 75,
+    "z": 0,
+    "timestamp": "2026-03-14T11:21:01.000Z",
+    "transactionHash": "0x3a3386bd0023c04c3f7597ac7f95f8392af8d10b262187b862a969b34b32e2f0",
+    "gridTileId": "5,7"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 30,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T11:21:02.000Z",
+    "transactionHash": "0xaeb4d046af2b454e0f5d086317cd41ad91512d2292626b7b4f3748a6b42249a3",
+    "gridTileId": "3,1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 60,
+    "y": 75,
+    "z": 0,
+    "timestamp": "2026-03-14T11:21:09.000Z",
+    "transactionHash": "0xc51f42eb6740402fe7203f00099e4bcb722c44d40c4ff572ffb0d94d697952f2",
+    "gridTileId": "6,7"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 30,
+    "y": 10,
+    "z": 0,
+    "timestamp": "2026-03-14T11:21:10.000Z",
+    "transactionHash": "0x8cf21dbf8b72e493f0373b6a69435bbea56b9bcc33b4f33e4c94e5a62e289496",
+    "gridTileId": "3,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 30,
+    "y": 5,
+    "z": 0,
+    "timestamp": "2026-03-14T11:21:17.000Z",
+    "transactionHash": "0x0e8728a3eeeed4dfac2c9d09d504813e582883a5323c06a31fc27c122d9a89ab",
+    "gridTileId": "3,0"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 60,
+    "y": 80,
+    "z": 0,
+    "timestamp": "2026-03-14T11:21:18.000Z",
+    "transactionHash": "0x87c6795924721d92acf562372291e23c7a8f1ba138d405d4e25502fbf348fe90",
+    "gridTileId": "6,8"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 30,
+    "y": 10,
+    "z": 0,
+    "timestamp": "2026-03-14T11:21:24.000Z",
+    "transactionHash": "0x1657a60b160099ed83b66e8c2411525548be6c13190bccdcae0fae5ce486151b",
+    "gridTileId": "3,1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 60,
+    "y": 75,
+    "z": 0,
+    "timestamp": "2026-03-14T11:21:26.000Z",
+    "transactionHash": "0x3e9e35040aff402b3908ef8e64067be5c5a686d205ebc4fee1234813f0c0c3bb",
+    "gridTileId": "6,7"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 30,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T11:21:31.000Z",
+    "transactionHash": "0x21deb5716c31ac582ea0c687518cfc338db680a44e28eb83e3372a49294c57f9",
+    "gridTileId": "3,1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 65,
+    "y": 75,
+    "z": 0,
+    "timestamp": "2026-03-14T11:21:34.000Z",
+    "transactionHash": "0x7a153c27033613cc7199ec180dc321a70c567a7e9b297042f0add759f8344a3e",
+    "gridTileId": "6,7"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 30,
+    "y": 10,
+    "z": 0,
+    "timestamp": "2026-03-14T11:21:38.000Z",
+    "transactionHash": "0xf84c817ba47cd27a9f24347f06e0cb00c2e25cf1eaf6eff0f3032e683437ed4c",
+    "gridTileId": "3,1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 70,
+    "y": 75,
+    "z": 0,
+    "timestamp": "2026-03-14T11:21:42.000Z",
+    "transactionHash": "0xea86460b675070b40d3511f47e8cedb81920aff4293a1d37a2631989ce1ed3fb",
+    "gridTileId": "7,7"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 25,
+    "y": 10,
+    "z": 0,
+    "timestamp": "2026-03-14T11:21:45.000Z",
+    "transactionHash": "0x0dae9dba50de6dbf64fa6b8045e323a78cf9f58789a1514eb4726ead76dace45",
+    "gridTileId": "2,1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 70,
+    "y": 70,
+    "z": 0,
+    "timestamp": "2026-03-14T11:21:50.000Z",
+    "transactionHash": "0x30a6a1aaea9b44c5425a16977083783901485b80fe29c9e0d6b3ae281069c77d",
+    "gridTileId": "7,7"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 30,
+    "y": 10,
+    "z": 0,
+    "timestamp": "2026-03-14T11:21:52.000Z",
+    "transactionHash": "0xeab9b7f59dde9075bce74e8920d4eeb21e1dbc3f4aa6423a23f1d718aecec348",
+    "gridTileId": "3,1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 65,
+    "y": 70,
+    "z": 0,
+    "timestamp": "2026-03-14T11:21:58.000Z",
+    "transactionHash": "0x8d1f89d47cf27e141594801b2287000a74eee235bb37dea5b554d75a74aa56be",
+    "gridTileId": "6,7"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 35,
+    "y": 10,
+    "z": 0,
+    "timestamp": "2026-03-14T11:21:59.000Z",
+    "transactionHash": "0x7fdd21024d79cd87202a489dff288d5c7bfa8fd32f52a90bf85f3a4b4f948d76",
+    "gridTileId": "3,1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 65,
+    "y": 65,
+    "z": 0,
+    "timestamp": "2026-03-14T11:22:06.000Z",
+    "transactionHash": "0x14a99ac48eb0c8971d700dcb5e16a586ccab06fdc20bce5022d082e2877a6624",
+    "gridTileId": "6,6"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 35,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T11:22:07.000Z",
+    "transactionHash": "0xad60967c7924b02ff8ba16012e75075b9e9089cb07b7b9a798fed5f07b66f91e",
+    "gridTileId": "3,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 35,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T11:22:14.000Z",
+    "transactionHash": "0x61f1d20590429397ac67d6f5860875652eea4c443c62d2c4a76545836d2fbd47",
+    "gridTileId": "3,2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 65,
+    "y": 60,
+    "z": 0,
+    "timestamp": "2026-03-14T11:22:15.000Z",
+    "transactionHash": "0xef082b6c5a8dc6e343cb3f75e4347515e75281dffc08dfc27213fdf083a0c055",
+    "gridTileId": "6,6"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 30,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T11:22:21.000Z",
+    "transactionHash": "0xeff0173254c68e3f3797f85045bda49726be1ef4efc52b30f72ca088f0410d4e",
+    "gridTileId": "3,2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 70,
+    "y": 60,
+    "z": 0,
+    "timestamp": "2026-03-14T11:22:23.000Z",
+    "transactionHash": "0xffea9fb295acdc01d2ec8617e1cbe7775a9197dd1f18793f0f1028a0c7ea9a51",
+    "gridTileId": "7,6"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 25,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T11:22:28.000Z",
+    "transactionHash": "0xa1875ca3b5d6ba1c3b7bc1bbab4cc1332ba3fb2a6431aac649114f8d1ad2e79a",
+    "gridTileId": "2,2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 75,
+    "y": 60,
+    "z": 0,
+    "timestamp": "2026-03-14T11:22:31.000Z",
+    "transactionHash": "0xf6f5c057dfb85ab7e977a91c13914b9c334534810c844ec2d5d1c136731af9fa",
+    "gridTileId": "7,6"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 25,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T11:22:35.000Z",
+    "transactionHash": "0x675ac0e4d888b5f3cec793ac0a873a324e5f41da455dfadcd2b887a415e449ed",
+    "gridTileId": "2,1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 75,
+    "y": 55,
+    "z": 0,
+    "timestamp": "2026-03-14T11:22:39.000Z",
+    "transactionHash": "0xe71d535017cb8d211ae9e76869d51393c7251577c8880e05219239342f35121c",
+    "gridTileId": "7,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 25,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T11:22:42.000Z",
+    "transactionHash": "0xf2661e9d669d20f4d23ba56c135b4a3fe9efee24f7a89608d7cbd0be27559a57",
+    "gridTileId": "2,2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 70,
+    "y": 55,
+    "z": 0,
+    "timestamp": "2026-03-14T11:22:47.000Z",
+    "transactionHash": "0x7a8ff9455b4a379e93ca78c1d8c8e46b22098690137209b7f3cf2e397e4e2ae2",
+    "gridTileId": "7,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 25,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T11:22:49.000Z",
+    "transactionHash": "0x2d235f4d01d3ab69038adda7b3dbd5dc1eed28fbf775dd9af5669a3e79ad674f",
+    "gridTileId": "2,2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 75,
+    "y": 55,
+    "z": 0,
+    "timestamp": "2026-03-14T11:22:55.000Z",
+    "transactionHash": "0x62abda1d51597386f8b0059bbcbbbc5be2805a313c3518571980dcb0d7cdf92c",
+    "gridTileId": "7,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 20,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T11:22:56.000Z",
+    "transactionHash": "0xc57bfce54ab996276f90937bdfe0fb8c0256fc44ef3677b0115b4a9e4c751163",
+    "gridTileId": "2,2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 75,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:23:03.000Z",
+    "transactionHash": "0x8ceab145cb20ab5e5198bcfb812bc77e533c72c481d6f92fcb4bf934842db195",
+    "gridTileId": "7,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 25,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T11:23:04.000Z",
+    "transactionHash": "0x361dacb9625d5f505db35be80609c9e9cc87c413179d5c9d510dec3d1d3f5e4c",
+    "gridTileId": "2,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 25,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T11:23:11.000Z",
+    "transactionHash": "0x8fb2e23bb40a0938f6fe8fac15e0cb251a490ca98e0b0255445b8ce4d93890bf",
+    "gridTileId": "2,2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 80,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:23:12.000Z",
+    "transactionHash": "0xc6103f32ec6da49fade47b58dbf141f4e950cbad07105516841088666c752e0d",
+    "gridTileId": "8,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 30,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T11:23:18.000Z",
+    "transactionHash": "0xb5af289338644f92e7a72cfd3a019a63fe83aad8083422c78c360a169605ca03",
+    "gridTileId": "3,2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 80,
+    "y": 45,
+    "z": 0,
+    "timestamp": "2026-03-14T11:23:20.000Z",
+    "transactionHash": "0x6eab6013d5d128fea5120ba76a33a26b257823b68f7e3e563b2da611eb74ec09",
+    "gridTileId": "8,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 35,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T11:23:25.000Z",
+    "transactionHash": "0xa4fb03c5ebbd3fe640b2c7c21bfb78f8b8340f0c844a87621a17bddc5bcd90c6",
+    "gridTileId": "3,2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 85,
+    "y": 45,
+    "z": 0,
+    "timestamp": "2026-03-14T11:23:28.000Z",
+    "transactionHash": "0xf2a0eeb055f5af79fcaa58044a2a3dcaeee208171080736db449ef804d4e6799",
+    "gridTileId": "8,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 35,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T11:23:32.000Z",
+    "transactionHash": "0xb49136e74a4e560d46712ab341fc9b02f3d82edf5c5ebb4df7c82adf8e51b9b7",
+    "gridTileId": "3,1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 90,
+    "y": 45,
+    "z": 0,
+    "timestamp": "2026-03-14T11:23:36.000Z",
+    "transactionHash": "0xfb3ae03a91f703860c0d52fba3d44202e490991e2cb2ed4df5712bc276e46247",
+    "gridTileId": "9,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 35,
+    "y": 10,
+    "z": 0,
+    "timestamp": "2026-03-14T11:23:39.000Z",
+    "transactionHash": "0x8caf9516e68219d2cb406f6eb354615914b88d93562816395aefa85c08bcecbd",
+    "gridTileId": "3,1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 90,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:23:44.000Z",
+    "transactionHash": "0x0d5716f922d29509fed0f97c5ee66daf436de8137f4b60703bf2add74c7a8cf1",
+    "gridTileId": "9,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 35,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T11:23:46.000Z",
+    "transactionHash": "0x8f7e8306eba4fa7ff4a850a4fa094316c2d515c0fa28f13f8e821a5a8bfe4b78",
+    "gridTileId": "3,1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 95,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:23:52.000Z",
+    "transactionHash": "0x3dece0467d513bd928ae2ba2e6969dbf88e49104017d7e23bee295e0685d4b2b",
+    "gridTileId": "9,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 35,
+    "y": 10,
+    "z": 0,
+    "timestamp": "2026-03-14T11:23:53.000Z",
+    "transactionHash": "0x1b865abd4922276a8d94cab41bd2d82816317e6a797250e7c3828c18f11228f6",
+    "gridTileId": "3,1"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 90,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:24:00.000Z",
+    "transactionHash": "0xaf62f37f1d226d665dafa32ba19449005dd762fedbd6a6edcbb2fdc3ad950ce8",
+    "gridTileId": "9,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 35,
+    "y": 15,
+    "z": 0,
+    "timestamp": "2026-03-14T11:24:01.000Z",
+    "transactionHash": "0xfe164d6516e5ccc388310aaee4bed69bb5b87952ac1c824f9d0d2aee93b4d59c",
+    "gridTileId": "3,1"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 35,
+    "y": 20,
+    "z": 0,
+    "timestamp": "2026-03-14T11:24:08.000Z",
+    "transactionHash": "0xd282a6902f22661d284199055d97571f1ce9b776390e91f82932cdb8421b7af8",
+    "gridTileId": "3,2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 90,
+    "y": 45,
+    "z": 0,
+    "timestamp": "2026-03-14T11:24:09.000Z",
+    "transactionHash": "0x964e937905baf68720ecb7662f4e86cf705f46120cfda197b421b85d9e38fe56",
+    "gridTileId": "9,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 35,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T11:24:15.000Z",
+    "transactionHash": "0xe4a7065ed2bd9762bc46a11eb5faa4058092491d1fd46264b87492170a2d902a",
+    "gridTileId": "3,2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 95,
+    "y": 45,
+    "z": 0,
+    "timestamp": "2026-03-14T11:24:17.000Z",
+    "transactionHash": "0x748a11a0048b7983af67db460c8095b8037103ca4fe14ac4606e418542b26d7b",
+    "gridTileId": "9,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 40,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T11:24:22.000Z",
+    "transactionHash": "0x13ad0d0726b485d119aafd51369100af4b2fe1bc71db11bc58eb809bbb82918c",
+    "gridTileId": "4,2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 90,
+    "y": 45,
+    "z": 0,
+    "timestamp": "2026-03-14T11:24:25.000Z",
+    "transactionHash": "0x17e57d155a664c7bd3a9e8a0c08a9d94f76f5a468240dd9084aaa9846767e8e0",
+    "gridTileId": "9,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T11:24:29.000Z",
+    "transactionHash": "0x9302006706217bc04f358c360860e27ef78a4f0b54ba428513c5ce8c2764015a",
+    "gridTileId": "4,2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 90,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:24:33.000Z",
+    "transactionHash": "0xe68041b70933416a626e773c6ec3ddfcdf35dd512db0024305f8b564595acc60",
+    "gridTileId": "9,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T11:24:36.000Z",
+    "transactionHash": "0x657fe3d0d18635554c5302f7a4ada751923b5385ae9309f0846505d22e1f5e5d",
+    "gridTileId": "5,2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 90,
+    "y": 55,
+    "z": 0,
+    "timestamp": "2026-03-14T11:24:41.000Z",
+    "transactionHash": "0xe2dca60c8aaac05c458a342d2ef7e5429b503d83e5d5a18cf794d1f8c16a9a05",
+    "gridTileId": "9,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T11:24:43.000Z",
+    "transactionHash": "0x0009671c6b9b8ff82011744aba6ea53e5e7234e51dcd0df50ab04455e3314e0b",
+    "gridTileId": "4,2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 85,
+    "y": 55,
+    "z": 0,
+    "timestamp": "2026-03-14T11:24:49.000Z",
+    "transactionHash": "0x91fdd64038d1dfbf292742f8f66813297ff1afb131b755e26119fc52529f1045",
+    "gridTileId": "8,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 50,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T11:24:50.000Z",
+    "transactionHash": "0xbb789af6ad54e31a5e7eaa851aff377d927ebc2ed6b13829844f0b4ec407a4f2",
+    "gridTileId": "5,2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 90,
+    "y": 55,
+    "z": 0,
+    "timestamp": "2026-03-14T11:24:57.000Z",
+    "transactionHash": "0xd50ef8a4b74dc646d6b0a91023693992e59fe0509d057de55e42da9a4391ffee",
+    "gridTileId": "9,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T11:24:58.000Z",
+    "transactionHash": "0x94d47474d3a37c686de57b6140a96d723bb8c18b7c53ffe941f4f7ba9fb1a42b",
+    "gridTileId": "4,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": 30,
+    "z": 0,
+    "timestamp": "2026-03-14T11:25:05.000Z",
+    "transactionHash": "0xcbf01fc731516c6fed5eff2dde6dbc2071691fe8f551501b185edc25f2256bf7",
+    "gridTileId": "4,3"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 95,
+    "y": 55,
+    "z": 0,
+    "timestamp": "2026-03-14T11:25:06.000Z",
+    "transactionHash": "0x626ae2b4b843bccb73d2584c61dcf1c16da772a226f0e2b1b95ea7e85cc71ed2",
+    "gridTileId": "9,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 45,
+    "y": 35,
+    "z": 0,
+    "timestamp": "2026-03-14T11:25:12.000Z",
+    "transactionHash": "0xb1092752ea8aa46fee7e0529d2519a9a1ded1e7020a095d1bd3d6133c3da8267",
+    "gridTileId": "4,3"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 95,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:25:14.000Z",
+    "transactionHash": "0x62d6abca95e87ed484bccd051af56b7053c985488f8fbb40de9a5b409b3c6498",
+    "gridTileId": "9,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 40,
+    "y": 35,
+    "z": 0,
+    "timestamp": "2026-03-14T11:25:19.000Z",
+    "transactionHash": "0x39d1aaba63a333e69b11fddb974118bb9f0c05336aea510091ab83419f385437",
+    "gridTileId": "4,3"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 95,
+    "y": 45,
+    "z": 0,
+    "timestamp": "2026-03-14T11:25:22.000Z",
+    "transactionHash": "0x0de11de68e5e425ddee0cd2f2905000515f57d4f4320d84f3e71def840728b2a",
+    "gridTileId": "9,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 40,
+    "y": 30,
+    "z": 0,
+    "timestamp": "2026-03-14T11:25:26.000Z",
+    "transactionHash": "0x586d42aa46a3c3fbd530cb8ddd854386a42fc4818f46704cda88cfad0f14fc9c",
+    "gridTileId": "4,3"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 95,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:25:30.000Z",
+    "transactionHash": "0x8d6ce470dbfabef4bc13cee40b334e1b033babf46bb744f303d4e588ee43ace2",
+    "gridTileId": "9,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 35,
+    "y": 30,
+    "z": 0,
+    "timestamp": "2026-03-14T11:25:33.000Z",
+    "transactionHash": "0x2b1f296bca7c5dd43a136a1a2dec40c26c8f5b1f2766cf149ab8bd38167d3b01",
+    "gridTileId": "3,3"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 90,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:25:38.000Z",
+    "transactionHash": "0xaf29dbd3b218d58a5fc0b57c5cae444ce4f923e40bc4ddadd2a6a4589b5ac5a5",
+    "gridTileId": "9,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 30,
+    "y": 30,
+    "z": 0,
+    "timestamp": "2026-03-14T11:25:40.000Z",
+    "transactionHash": "0x7cd0d17ff27f853229c33c77e56a497385654d9507c2e82e80c6b204af14fe64",
+    "gridTileId": "3,3"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 90,
+    "y": 55,
+    "z": 0,
+    "timestamp": "2026-03-14T11:25:46.000Z",
+    "transactionHash": "0x2caa31110102c6ffe24c3167a0ce8980696d2a2877457df5fe3273a07fa56904",
+    "gridTileId": "9,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 30,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T11:25:47.000Z",
+    "transactionHash": "0xb127c548b0c7a75945464abd30e48d652ef3a7ed1fe133c3e7bc298dbe457876",
+    "gridTileId": "3,2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 90,
+    "y": 60,
+    "z": 0,
+    "timestamp": "2026-03-14T11:25:54.000Z",
+    "transactionHash": "0x886cbf1070e048f79cc254f0c6f5061598bbdd39814a575174e7582005521788",
+    "gridTileId": "9,6"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 25,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T11:25:55.000Z",
+    "transactionHash": "0x0e9c4eb80b0592850c011bab50a287501d0169b1c7012316b72feae064ae6755",
+    "gridTileId": "2,2"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 20,
+    "y": 25,
+    "z": 0,
+    "timestamp": "2026-03-14T11:26:02.000Z",
+    "transactionHash": "0x03461df41fad3032f9da7d857509b48a4c059c7ef722eaf04367779adb399321",
+    "gridTileId": "2,2"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 90,
+    "y": 65,
+    "z": 0,
+    "timestamp": "2026-03-14T11:26:03.000Z",
+    "transactionHash": "0x234d3a0c92874da445c4ffa4ab8163c57844821b7f7161f96d0620edff40df7c",
+    "gridTileId": "9,6"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 20,
+    "y": 30,
+    "z": 0,
+    "timestamp": "2026-03-14T11:26:09.000Z",
+    "transactionHash": "0x3029987ded9786bf77cd73a81807bf45e507ce2c9e2500bb19e2b289c866f6bd",
+    "gridTileId": "2,3"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 90,
+    "y": 60,
+    "z": 0,
+    "timestamp": "2026-03-14T11:26:11.000Z",
+    "transactionHash": "0xb0f370e4c7a2c6140e9a31979bb7e2868de8c514b21ce47470b5dcee5aa5223e",
+    "gridTileId": "9,6"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 25,
+    "y": 30,
+    "z": 0,
+    "timestamp": "2026-03-14T11:26:16.000Z",
+    "transactionHash": "0x5e438f3a421794143e08e5caa15792c0454acccaa07899af2dfb305d626e4e0b",
+    "gridTileId": "2,3"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 90,
+    "y": 55,
+    "z": 0,
+    "timestamp": "2026-03-14T11:26:19.000Z",
+    "transactionHash": "0x466263c653cf0ed6bab3f15cf4bbe03ec720cccdb517137dc33130f714ef29fe",
+    "gridTileId": "9,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 25,
+    "y": 35,
+    "z": 0,
+    "timestamp": "2026-03-14T11:26:23.000Z",
+    "transactionHash": "0xfa80a5263f57459714e2590e534ba53bb06b600b0c565c84ba410b9f2cd739ae",
+    "gridTileId": "2,3"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 85,
+    "y": 55,
+    "z": 0,
+    "timestamp": "2026-03-14T11:26:27.000Z",
+    "transactionHash": "0xda81454042e8ebb454f8153029be608d89494edafa5ce36c35ccce4783a73d81",
+    "gridTileId": "8,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 20,
+    "y": 35,
+    "z": 0,
+    "timestamp": "2026-03-14T11:26:30.000Z",
+    "transactionHash": "0xe355809c306251129f3e055cf2e84e6ba57bc50b052140d9cc22f604ca9b755d",
+    "gridTileId": "2,3"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 85,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:26:35.000Z",
+    "transactionHash": "0xae2d5a49a979354cfbf055e4cb93c03ec2d208b28c02a382f7c1b5dabe267498",
+    "gridTileId": "8,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 20,
+    "y": 40,
+    "z": 0,
+    "timestamp": "2026-03-14T11:26:37.000Z",
+    "transactionHash": "0x017f168261b8a79eb2ce7f19cdd077bfc39ab4f2dc87b95c625c4a187fe1565f",
+    "gridTileId": "2,4"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 80,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:26:43.000Z",
+    "transactionHash": "0xcf393ff82bb1064b05d52f7a511db29bb081f243a31abb2c0e5ed8f871c715c1",
+    "gridTileId": "8,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 15,
+    "y": 40,
+    "z": 0,
+    "timestamp": "2026-03-14T11:26:44.000Z",
+    "transactionHash": "0x6b35e893cd79090153b0045d67fe7c35215362e37a9f1763fd9e7eb17769fc5d",
+    "gridTileId": "1,4"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 75,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:26:51.000Z",
+    "transactionHash": "0x271e51ac6c65d121d6601f285d728f17110623a52dec883b1e1741f2dbf698ac",
+    "gridTileId": "7,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 10,
+    "y": 40,
+    "z": 0,
+    "timestamp": "2026-03-14T11:26:52.000Z",
+    "transactionHash": "0x2a87b2d7928eecaafc2f52a78b2a9f8280a2b810de0c839a83fc6de26c75e63c",
+    "gridTileId": "1,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 10,
+    "y": 45,
+    "z": 0,
+    "timestamp": "2026-03-14T11:26:59.000Z",
+    "transactionHash": "0x86e0c402d947a8327b7a75f695c52cccd5ff666833af74510f5e1c62497891f1",
+    "gridTileId": "1,4"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 70,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:27:00.000Z",
+    "transactionHash": "0x2563d88456be8d4a0a89d8b73e042271f1e110767841916820fabc725cb461b7",
+    "gridTileId": "7,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 15,
+    "y": 45,
+    "z": 0,
+    "timestamp": "2026-03-14T11:27:06.000Z",
+    "transactionHash": "0x4f73b1aa4b2f97ada908ffb91c3950e435317645690e8fbe25dd6c1f947990aa",
+    "gridTileId": "1,4"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 65,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:27:08.000Z",
+    "transactionHash": "0x704a4228768a06d465c72b23dc0a2cd8f63216b3db299e188377c63bf7047c77",
+    "gridTileId": "6,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 15,
+    "y": 40,
+    "z": 0,
+    "timestamp": "2026-03-14T11:27:13.000Z",
+    "transactionHash": "0xab7eaf7b11b84d78b8a5b07b8dc244af3d28ab444e8245e4affe5b25268a7ffa",
+    "gridTileId": "1,4"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 60,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:27:16.000Z",
+    "transactionHash": "0x897a010d1fdab6d431955f9dcfd1ce9e29f1555eea09461a9029e9bbff388faf",
+    "gridTileId": "6,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 15,
+    "y": 45,
+    "z": 0,
+    "timestamp": "2026-03-14T11:27:20.000Z",
+    "transactionHash": "0x0c8268c162ef2d2dbbcc5df214b1cc339969cc28713661d8521e25a2c2d9f6ba",
+    "gridTileId": "1,4"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 65,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:27:24.000Z",
+    "transactionHash": "0xc6f876be02acd331bfe3a24889d7cda73d5ae6515d0c2d49bcb6db8d00cda491",
+    "gridTileId": "6,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 15,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:27:27.000Z",
+    "transactionHash": "0x3b8fb5ccee8570786c3c68d9da7f3aca4b9cbe1102571c5393a14e6291ba0b14",
+    "gridTileId": "1,5"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 65,
+    "y": 55,
+    "z": 0,
+    "timestamp": "2026-03-14T11:27:32.000Z",
+    "transactionHash": "0x0bf7970ff0aa07d52c198ae5978563101c45124d68963dd99664cc84f5b4e96b",
+    "gridTileId": "6,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 15,
+    "y": 45,
+    "z": 0,
+    "timestamp": "2026-03-14T11:27:34.000Z",
+    "transactionHash": "0x13b1661f444ac9dff7650fb4283436ccb35faa0872c216ad2f047b0f570dba4c",
+    "gridTileId": "1,4"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 60,
+    "y": 55,
+    "z": 0,
+    "timestamp": "2026-03-14T11:27:40.000Z",
+    "transactionHash": "0x5f17066ead3768b79953ab090e2c3cce276b9181ab99b983d6b5f40a80e01db9",
+    "gridTileId": "6,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 20,
+    "y": 45,
+    "z": 0,
+    "timestamp": "2026-03-14T11:27:41.000Z",
+    "transactionHash": "0xce4f66feb8c4af713b11214c58be56ba9eb51c5fba4466f938b491231d062843",
+    "gridTileId": "2,4"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 55,
+    "y": 55,
+    "z": 0,
+    "timestamp": "2026-03-14T11:27:48.000Z",
+    "transactionHash": "0x41f1fdf35f3d403c7d01ed28691c3024b78f66b309ce8e273695633f4b5a339c",
+    "gridTileId": "5,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 20,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:27:49.000Z",
+    "transactionHash": "0x2b327b09cf13f1b257cea0d200a53f277942821524e49a12ae4d2f78d87b50ab",
+    "gridTileId": "2,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 25,
+    "y": 50,
+    "z": 0,
+    "timestamp": "2026-03-14T11:27:56.000Z",
+    "transactionHash": "0xda59527c8db211218dc1d41cfd300af911f3d01b02ef118c34f0b5894bb79307",
+    "gridTileId": "2,5"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 55,
+    "y": 60,
+    "z": 0,
+    "timestamp": "2026-03-14T11:27:57.000Z",
+    "transactionHash": "0x06452542f2d037ed42f51acf2fa231ee02a05ebace17b39d1651a9e17f213efa",
+    "gridTileId": "5,6"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 25,
+    "y": 45,
+    "z": 0,
+    "timestamp": "2026-03-14T11:28:03.000Z",
+    "transactionHash": "0x9abde9207621e05c98f2ece7d4fddfac71fc8d2b2a142dcd75741529e3df7ef0",
+    "gridTileId": "2,4"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 50,
+    "y": 60,
+    "z": 0,
+    "timestamp": "2026-03-14T11:28:05.000Z",
+    "transactionHash": "0x7b417b2f64a0ab64af8556bce6c0630824dfe083b80ef6dce5ea34a97c746035",
+    "gridTileId": "5,6"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 25,
+    "y": 40,
+    "z": 0,
+    "timestamp": "2026-03-14T11:28:10.000Z",
+    "transactionHash": "0x7acf51983a0aa4659e6991ff24e33241931a6f77c6c4095097c63268a18160d1",
+    "gridTileId": "2,4"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 45,
+    "y": 60,
+    "z": 0,
+    "timestamp": "2026-03-14T11:28:13.000Z",
+    "transactionHash": "0x98ac7c240867971dbb7b38eec702288028a11c79e47f6766f3c5a7fc5f2184ae",
+    "gridTileId": "4,6"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 20,
+    "y": 40,
+    "z": 0,
+    "timestamp": "2026-03-14T11:28:17.000Z",
+    "transactionHash": "0x4b8f1f80e6186137fd558307c925558e048ffa76ef46ff719d6cd58a1b0014db",
+    "gridTileId": "2,4"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 45,
+    "y": 55,
+    "z": 0,
+    "timestamp": "2026-03-14T11:28:21.000Z",
+    "transactionHash": "0xfa2118f43c0cb57148de65201d96600036dcee9ce228fac0d4d21437490dd85f",
+    "gridTileId": "4,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 20,
+    "y": 45,
+    "z": 0,
+    "timestamp": "2026-03-14T11:28:24.000Z",
+    "transactionHash": "0x48f25fc3c6a13825698abbd438b448f9f41853d4a81a87586b6b24fcd8b70bcb",
+    "gridTileId": "2,4"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 40,
+    "y": 55,
+    "z": 0,
+    "timestamp": "2026-03-14T11:28:29.000Z",
+    "transactionHash": "0x801f272855c0dd9d52d6c6ca6dc8552c18fa1e2e5fb1ada295295d34028d2002",
+    "gridTileId": "4,5"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 20,
+    "y": 40,
+    "z": 0,
+    "timestamp": "2026-03-14T11:28:31.000Z",
+    "transactionHash": "0xbb470a6f30481b99476f437747d28b7bc797fc0f59a589010a760220710d07e0",
+    "gridTileId": "2,4"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 40,
+    "y": 60,
+    "z": 0,
+    "timestamp": "2026-03-14T11:28:37.000Z",
+    "transactionHash": "0x076453e11c3a20ef6d38f65cac324fa595c97f867796b3270f44dae30e998707",
+    "gridTileId": "4,6"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 15,
+    "y": 40,
+    "z": 0,
+    "timestamp": "2026-03-14T11:28:38.000Z",
+    "transactionHash": "0x151b9337f3f4392bd15129888381118e6a29f90b13a9184d0812b8541ff83de9",
+    "gridTileId": "1,4"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 35,
+    "y": 60,
+    "z": 0,
+    "timestamp": "2026-03-14T11:28:45.000Z",
+    "transactionHash": "0xbeb1c9e244ada332e7fc4f6fe1161eca3e315efd2a798b7ffc4bc16020e38b4e",
+    "gridTileId": "3,6"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 20,
+    "y": 40,
+    "z": 0,
+    "timestamp": "2026-03-14T11:28:46.000Z",
+    "transactionHash": "0xc7a062383bc5846d593cd9d60bfc0c0f641aa2806ae6fbab16a1610deb4fc4df",
+    "gridTileId": "2,4"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 20,
+    "y": 45,
+    "z": 0,
+    "timestamp": "2026-03-14T11:28:53.000Z",
+    "transactionHash": "0x46958ab8d3853ba8899b228eddd9db8c105cb6cff82e2c6c865afad58bc5ab7c",
+    "gridTileId": "2,4"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 35,
+    "y": 65,
+    "z": 0,
+    "timestamp": "2026-03-14T11:28:54.000Z",
+    "transactionHash": "0x143046929ce77371c507eca270c71d62ca2d122d031a8ad8c55ee72cda7f32e8",
+    "gridTileId": "3,6"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 25,
+    "y": 45,
+    "z": 0,
+    "timestamp": "2026-03-14T11:29:00.000Z",
+    "transactionHash": "0xe6c342a4722e65ba475d5ba054cd8c1e790ade7e67dc2d2ac2a444ad72451a6a",
+    "gridTileId": "2,4"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 35,
+    "y": 60,
+    "z": 0,
+    "timestamp": "2026-03-14T11:29:02.000Z",
+    "transactionHash": "0xdd39ecddc29fa0ccd03deeb4086c88dbb3dba7d79caa2dea738e888c5fac693a",
+    "gridTileId": "3,6"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 20,
+    "y": 45,
+    "z": 0,
+    "timestamp": "2026-03-14T11:29:07.000Z",
+    "transactionHash": "0xbc56b0ddbf9c2ffbcb0478b9c9ff36ec232f566eecedf33171d84a891a92b1ac",
+    "gridTileId": "2,4"
+  },
+  {
+    "agentId": "agent-beta",
+    "x": 40,
+    "y": 60,
+    "z": 0,
+    "timestamp": "2026-03-14T11:29:10.000Z",
+    "transactionHash": "0xb7912a16c1ac05aae5797f2c86f3230166c4a6d676b5b50401fe6984f19baf88",
+    "gridTileId": "4,6"
+  },
+  {
+    "agentId": "agent-alpha",
+    "x": 25,
+    "y": 45,
+    "z": 0,
+    "timestamp": "2026-03-14T11:29:14.000Z",
+    "transactionHash": "0xe8312847ab372132a59cae0b4bba8a9f9e9524acdf306b5b46047ba348bdb0c8",
+    "gridTileId": "2,4"
+  }
+]
