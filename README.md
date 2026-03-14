@@ -2,9 +2,8 @@
 
 A decentralized proof-of-completion system where simulated swarm agents independently log their traversal paths to an Ethereum blockchain for absolute, tamper-proof verification of space explored. 
 
-![alt text](<Screenshot 2026-03-14 at 14-44-48 frontend - Copy.png>)
 
-![Project Hero Image]
+![Project Hero Image](<frontend/public/media/Screenshot 2026-03-14 at 14-44-48 frontend - Copy.png>)
 
 ---
 
@@ -140,11 +139,14 @@ Open your browser and navigate to `http://localhost:5173`.
 ## 📸 Visualizations
 
 ### Live Radar Tracking
-![Radar Map UI](<Placeholder for a screenshot showing the trailing agents on the React Grid>)
+![Radar Map UI](<frontend/public/media/radarMapUI.png>)
 *A look at the retro-arcade dashboard updating live as the Mongoose models continuously index Hardhat events.*
 
 ### Terminal Outputs
-![Terminal Outputs](<Placeholder for a screenshot showing the mock agents successfully hashing blocks>)
+![Agents Running](<frontend/public/media/agentsMine.png>)
+![Backend Terminal](<frontend/public/media/backendTerminal.png>)
+![HardHat Blockchain](<frontend/public/media/hardHatBlockchain.png>)
+![Contract Deploy](<frontend/public/media/contractDeploy.png>)
 *The local EVM processing the agent multi-sig coordinates.*
 
 ---

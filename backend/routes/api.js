@@ -15,17 +15,19 @@ router.get('/map-data', async (req, res) => {
 
         // Fetch points from each specific agent collection
         for (const col of agentCollections) {
-            const Model = mongoose.model(col.name) || getMapPointModel(col.name.replace('mappoints_', ''));
+            // Derive the agentId back from the collection name and use the factory
+            const agentId = col.name.replace('mappoints_', '');
+            const Model = getMapPointModel(agentId);
             const points = await Model.find().lean();
             allPoints = allPoints.concat(points);
         }
 
         // Sort combined points chronologically
-        allPoints.sort((a, b) => a.timestamp - b.timestamp);
+        allPoints.sort((a, b) => new Date(a.timestamp) - new Date(b.timestamp));
 
         res.json(allPoints);
     } catch (err) {
-        console.error(err);
+        console.error('Error fetching map data:', err);
         res.status(500).json({ error: 'Server Error' });
     }
 });
