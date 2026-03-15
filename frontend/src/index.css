@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&display=swap');
-/* @import "tailwindcss"; */
 
 @tailwind base;
 @tailwind components;
@@ -45,4 +44,10 @@ body {
   background-image: 
     linear-gradient(to right, rgba(57, 255, 20, 0.1) 1px, transparent 1px),
     linear-gradient(to bottom, rgba(57, 255, 20, 0.1) 1px, transparent 1px);
+}
+
+/* Scanline animation */
+@keyframes scanline {
+  0% { top: 0; }
+  100% { top: 100%; }
 }
